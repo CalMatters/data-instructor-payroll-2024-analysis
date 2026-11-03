@@ -1,0 +1,4 @@
+campus,term_code,crn,subject,course_number,course_title,instructor_name,instructor_email,credit_hours,max_enrollment,enrolled,seats_available,waitlist_count,meeting_pattern,start_date,end_date
+evc,2024-summer,123369,ETH,040,Vietnamese Amer.Culture/Exper.,"Ninh, Thien Huong",,3.0,,,,,Asynchronous (Online),06/17/2024,07/25/2024
+evc,2024-summer,123370,ETH,040,Vietnamese Amer.Culture/Exper.,"Ninh, Thien Huong",,3.0,,,,,Asynchronous (Online),06/17/2024,07/25/2024
+evc,2024-summer,123372,ETH,042,Asian American Experience,"Ninh, Thien Huong",,3.0,,,,,Asynchronous (Online),06/17/2024,07/25/2024

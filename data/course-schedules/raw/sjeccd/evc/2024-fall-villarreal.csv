@@ -1,0 +1,4 @@
+campus,term_code,crn,subject,course_number,course_title,instructor_name,instructor_email,credit_hours,max_enrollment,enrolled,seats_available,waitlist_count,meeting_pattern,start_date,end_date
+evc,2024-fall,123551,ETH,011,Ethnic Images in Film,"Villarreal, Thien Huong",,3.0,,39,1,,Asynchronous (Online),08/26/2024,12/12/2024
+evc,2024-fall,123560,ETH,040,Vietnamese Amer.Culture/Exper.,"Villarreal, Thien Huong",,3.0,,49,-1,,Asynchronous (Online),08/26/2024,12/12/2024
+evc,2024-fall,123561,ETH,040,Vietnamese Amer.Culture/Exper.,"Villarreal, Thien Huong",,3.0,,52,-4,,Asynchronous (Online),10/21/2024,12/12/2024

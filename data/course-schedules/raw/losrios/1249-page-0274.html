@@ -1,0 +1,1304 @@
+<!-- session STRM_sgt 1273-->
+
+
+ 
+<!--  - from get3 --><!-- Preccn** SELECT * FROM socrates.preCCN WHERE official_date LIKE '%-08-01%'; --><!-- *  --><!-- SELECT * FROM LROC.PS_XML2 LEFT JOIN socrates.preCCN ON LROC.PS_XML2.COURSE_ID=socrates.preCCN.peoplesoft_crse_id AND socrates.preCCN.official_date = '-08-01' AND LROC.PS_XML2.ACAD_CAREER=socrates.preCCN.college
+	WHERE LROC.PS_XML2.STRM='1249' AND
+		LROC.PS_XML2.CLASS_NUMBER IS NOT NULL AND
+		LROC.PS_XML2.INSTRUCTION_DETAIL='1'  AND (LROC.PS_XML2.ACAD_CAREER='ARC' OR LROC.PS_XML2.ACAD_CAREER='CRC' OR LROC.PS_XML2.ACAD_CAREER='FLC' OR LROC.PS_XML2.ACAD_CAREER='SCC') AND ((LROC.PS_XML2.ENRL_STATUS='Open' or LROC.PS_XML2.ENRL_STATUS='Open Consent') OR (LROC.PS_XML2.ENRL_STATUS='Waitlist') OR (LROC.PS_XML2.ENRL_STATUS='Closed')) AND (
+					(
+						LROC.PS_XML2.INSTRUCTION_CODE='72' OR LROC.PS_XML2.INSTRUCTION_CODE='71' OR LROC.PS_XML2.INSTRUCTION_CODE='64'
+					) OR(LROC.PS_XML2.INSTRUCTION_CODE='50' OR LROC.PS_XML2.INSTRUCTION_CODE='54' OR LROC.PS_XML2.INSTRUCTION_CODE='98') OR
+					(
+					  (LROC.PS_XML2.INSTRUCTION_CODE='02') OR
+					  (LROC.PS_XML2.INSTRUCTION_CODE='04') OR
+					  (LROC.PS_XML2.INSTRUCTION_CODE='11')
+					 
+					)) AND (
+					(
+						LROC.PS_XML2.SYNC='synchronous'
+					) OR 
+					(
+						LROC.PS_XML2.SYNC='asynchronous'
+					)) AND (length(LROC.PS_XML2.CLASS_SECTION)<4) AND (CARD_COUNT IS NOT NULL)
+	ORDER BY	
+		LROC.PS_XML2.STRM DESC,
+    	LROC.PS_XML2.SUBJECT_CD ASC,
+		CATALOG_NBR REGEXP '^[0-9]+$' DESC,
+  		CAST(CATALOG_NBR AS UNSIGNED) ASC,
+		CATALOG_NBR ASC,
+		FIELD(ENRL_STATUS,"Open","Waitlist","Closed") ASC,
+    	CLASS_SECTION ASC		
+	 LIMIT 20 OFFSET 5480 <p> --><ul class='class-cards'><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+					<span class='campus'>Main Campus</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16510	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Tue/Thu, 1:00 pm to 2:20 pm</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Main Campus, 
+Rodda Hall North
+, 229</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x94585&id=2149491" target="_blank" class="modalLink extLink">Jessica C. Fleck</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','205','SCC','1249|16510');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					American River College					</span>
+					
+					<span class='campus'>Main Campus</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;10487	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Tue/Thu, 10:30 am to 11:50 am</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Main Campus, 
+Tech Ed West
+, 406</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://arc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x79875&id=1275316" target="_blank" class="modalLink extLink">Yesenia Sandoval Lopez</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006208','207','ARC','1249|10487');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+					<span class='campus'>Main Campus</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16272	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Mon/Wed, 10:30 am to 11:50 am</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Main Campus, 
+Rodda Hall North
+, 229</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x78501&id=0993474" target="_blank" class="modalLink extLink">Nicholas B. Miller</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','207','SCC','1249|16272');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					American River College					</span>
+					
+					<span class='campus'>Main Campus</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;10902	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Tue/Thu, 12:00 pm to 1:20 pm</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Main Campus, 
+Raef Hall
+, 160</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://arc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x77520&id=0021905" target="_blank" class="modalLink extLink">Nidal Hijazi</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006208','210','ARC','1249|10902');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					American River College					</span>
+					
+					<span class='campus'>Main Campus</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;11452	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Mon/Wed, 1:30 pm to 2:50 pm</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Main Campus, 
+STEM
+, 208</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://arc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x79936&id=1751682" target="_blank" class="modalLink extLink">Jeffrey O. Sacha</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006208','212','ARC','1249|11452');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;15939	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x76710&id=1251505" target="_blank" class="modalLink extLink">Diane E. Carlson</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','230','FLC','1249|15939');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;15024	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x77311&id=1384207" target="_blank" class="modalLink extLink">Ravenpreet K. Gill </a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','240','FLC','1249|15024');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16081	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x77311&id=1384207" target="_blank" class="modalLink extLink">Ravenpreet K. Gill </a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','241','FLC','1249|16081');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;14809	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x76710&id=1251505" target="_blank" class="modalLink extLink">Diane E. Carlson</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','242','FLC','1249|14809');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;15334	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x76710&id=1251505" target="_blank" class="modalLink extLink">Diane E. Carlson</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','243','FLC','1249|15334');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Folsom Lake College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;15081	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://flc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x77311&id=1384207" target="_blank" class="modalLink extLink">Ravenpreet K. Gill </a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 021935 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('021935','245','FLC','1249|15081');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Cosumnes River College					</span>
+					
+					<span class='campus'>Elk Grove</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;19263	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Tue/Thu, 4:00 pm to 5:20 pm</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Elk Grove, 
+Classroom
+, 211</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://crc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x77010&id=1105300" target="_blank" class="modalLink extLink">Tyler M. Elston</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 006209 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006209','500','CRC','1249|19263');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Cosumnes River College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;13891	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://crc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x78807&id=1617857" target="_blank" class="modalLink extLink">Thien-Huong Ninh Villarreal</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 006209 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006209','540','CRC','1249|13891');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Cosumnes River College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;13892	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://crc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x78145&id=0765757" target="_blank" class="modalLink extLink">Jason K. Logan</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	course_id: 006209 --><!-- 	course_id:  --><div class='ccn'>
+										<p><em>This class was formerly known as SOC 300 Introductory Sociology. Learn about the switch to <a href='/academics/programs-and-majors/course-numbering/common-course-numbering' target='_blank' rel='noopener noreferrer' class='extLink'>Common Course Numbering</a> (CCN).</em></p>
+									  </div>		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006209','541','CRC','1249|13892');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					American River College					</span>
+					
+					<span class='campus'>Natomas Outreach Center</span>				</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;12331	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		In Person	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Fri, 9:00 am to 12:15 pm</li>		
+	
+	<li><span class='label'>Building<!-- 1 --></span>Natomas Outreach Center, 
+Natomas Educational Center
+, N203</li>	
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://arc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x82192&id=1310587" target="_blank" class="modalLink extLink">Krishna L. Guadalupe</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006208','660','ARC','1249|12331');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+									</div>
+				<div class="session">
+				Eight Week - First (August 24 to October 16)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16280	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x76597&id=1224731" target="_blank" class="modalLink extLink">Adrian L. Chevraux-Fitzhugh</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','802','SCC','1249|16280');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+									</div>
+				<div class="session">
+				Eight Week - Second (October 17 to December 13)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16275	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x80331&id=0980802" target="_blank" class="modalLink extLink">Alton N. Williams</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','806','SCC','1249|16275');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16273	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x80374&id=0023769" target="_blank" class="modalLink extLink">Charles H. Whipple V</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','808','SCC','1249|16273');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  <div class='ztc' title='Zero Textbook Costs'><span class='sr-only'>Zero Textbook Costs</span></div>				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;16274	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x80374&id=0023769" target="_blank" class="modalLink extLink">Charles H. Whipple V</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','809','SCC','1249|16274');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li><!--  -->
+<li>
+	<article class="class-card" id="">
+		<div class="info">
+			<div class="heading">
+				<div class="title">
+					<span class="class-card-subj-num">
+					SOC 300</span> Introductory Sociology				</div>
+				
+				<div class="data-bubbles">
+										<div class="units">
+						<span>
+							3 units
+									
+						</span>
+					</div>
+				  				  
+					
+				
+				</div>
+				<div class="location">
+					<span class="college">
+					Sacramento City College					</span>
+					
+									</div>
+				<div class="session">
+				Full Term (August 24 to December 19)				<!-- <br> -->
+								
+				</div>
+			</div>
+            
+			<div class="details">
+				<div class='detail sec-single'><ul>
+	<li class="section">
+	<span class="label">Class</span>
+	LEC&nbsp;18082	</li>
+	<li style="min-width:103px;">
+		<span class="label">Mode</span>
+		Fully Online	
+	</li>
+	
+		<li><span class='label'>Day/Time</span>Asynchronous – no scheduled meeting times<!-- Hello world. --></li>		
+	
+		
+	
+	
+		<li><span class='label'>Instructor</span><a href="https://scc.losrios.edu/about-us/contact-us/employee-directory/employee?xid=x78145&id=0765757" target="_blank" class="modalLink extLink">Jason K. Logan</a></li>	
+	<li class="status">
+		 <span class='highlight highlight--closed'></span>Closed
+	</li>
+</ul></div>			</div>
+			<!-- 	no preCCN -->		</div>
+		<div class="links">
+			<a class="more-info" href="javascript:void(0);" onClick="getModal('006210','810','SCC','1249|18082');">
+				<span class="sr-only">
+					More information about SOC 300 Introductory Sociology 				</span>
+				<span>
+					<i class="fa fa-arrow-right" aria-hidden="true"></i>
+				</span>
+			</a>
+		</div>
+	</article>
+</li></ul>

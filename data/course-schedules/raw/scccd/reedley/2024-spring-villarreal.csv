@@ -1,0 +1,6 @@
+campus,term_code,crn,subject,course_number,course_title,instructor_name,instructor_email,credit_hours,max_enrollment,enrolled,seats_available,waitlist_count,meeting_pattern,start_date,end_date
+reedley,2024-spring,53025,SOC,1A,INTRODUCTION TO SOCIOLOGY,T.NINH,,3.0,,,,,TTh 11:00am-1:50 @ POR 5 (Short Term),01/08/2024,03/08/2024
+reedley,2024-spring,53026,SOC,1B,CRITICAL THINKING ABOUT SOCIAL PROBLEMS,T.NINH,,3.0,,,,,Asynchronous (Online),,
+reedley,2024-spring,53027,SOC,1B,CRITICAL THINKING ABOUT SOCIAL PROBLEMS,T.NINH,,3.0,,,,,Asynchronous (Online),,
+reedley,2024-spring,53028,SOC,2,AMERICAN MINORITY GROUPS,T.NINH,,3.0,,,,,TTh 11:00am-1:50 @ POR 5 (Short Term),03/11/2024,05/17/2024
+reedley,2024-spring,55036,SOC,11,SOCIOLOGY OF GENDER,T.NINH,,3.0,,,,,TTh 2:30pm-3:45 @ POR 5 (Full Term),,

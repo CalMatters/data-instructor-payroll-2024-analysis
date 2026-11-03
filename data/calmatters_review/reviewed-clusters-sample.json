@@ -1,0 +1,3680 @@
+[
+  {
+    "id": 20,
+    "record_count": 14,
+    "campuses": [
+      {
+        "campus": "Cuesta College",
+        "records": [
+          {
+            "name": "Thien-Huong Villarreal",
+            "title": "faculty part time",
+            "pay": 27493
+          }
+        ]
+      },
+      {
+        "campus": "Gavilan College",
+        "records": [
+          {
+            "name": "Thien-Huong Villarreal",
+            "title": "pt faculty",
+            "pay": 6214
+          }
+        ]
+      },
+      {
+        "campus": "Los Rios Community College District",
+        "records": [
+          {
+            "name": "Thien-Huong Ninh Villarreal",
+            "title": "professor",
+            "pay": 130309
+          }
+        ]
+      },
+      {
+        "campus": "San Joaquin Delta College",
+        "records": [
+          {
+            "name": "Thien Huong N Villarreal",
+            "title": "dnu hrly instructor sub",
+            "pay": 0
+          },
+          {
+            "name": "Thien Huong N Villarreal",
+            "title": "dnu hrly instructor tc",
+            "pay": 0
+          },
+          {
+            "name": "Thien Huong N Villarreal",
+            "title": "faculty researcher",
+            "pay": 199955
+          },
+          {
+            "name": "Thien Huong N Villarreal",
+            "title": "overload instructor",
+            "pay": 0
+          },
+          {
+            "name": "Thien Huong N Villarreal",
+            "title": "overload instructor term",
+            "pay": 0
+          }
+        ]
+      },
+      {
+        "campus": "San Jose Evergreen Community College District",
+        "records": [
+          {
+            "name": "Thien Huong Villarreal",
+            "title": "adj ethnic studies lec",
+            "pay": 89928
+          }
+        ]
+      },
+      {
+        "campus": "Sierra College",
+        "records": [
+          {
+            "name": "Thien-Huong N Villarreal",
+            "title": "pt faculty lec sociology",
+            "pay": 27292
+          }
+        ]
+      },
+      {
+        "campus": "State Center Community College District",
+        "records": [
+          {
+            "name": "Thien-Huong N Villarreal",
+            "title": "adjunct instructor lec",
+            "pay": 80698
+          }
+        ]
+      },
+      {
+        "campus": "West Valley Mission CCD",
+        "records": [
+          {
+            "name": "Thien-Huong Ninh Villarreal",
+            "title": "full time instructor",
+            "pay": 83011
+          }
+        ]
+      },
+      {
+        "campus": "Yuba Community College District",
+        "records": [
+          {
+            "name": "Thien-Huong Villarreal",
+            "title": "bu business commerce nc",
+            "pay": 76674
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 721574,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784246556389,
+        "name": "Thien-Huong Villarreal",
+        "records": [
+          {
+            "campus": "Sierra College",
+            "name": "Thien-Huong N Villarreal",
+            "title": "pt faculty lec sociology",
+            "pay": 27292,
+            "key": "Sierra College||Thien-Huong N Villarreal||pt faculty lec sociology"
+          },
+          {
+            "campus": "Cuesta College",
+            "name": "Thien-Huong Villarreal",
+            "title": "faculty part time",
+            "pay": 27493,
+            "key": "Cuesta College||Thien-Huong Villarreal||faculty part time"
+          },
+          {
+            "campus": "Gavilan College",
+            "name": "Thien-Huong Villarreal",
+            "title": "pt faculty",
+            "pay": 6214,
+            "key": "Gavilan College||Thien-Huong Villarreal||pt faculty"
+          },
+          {
+            "campus": "Los Rios Community College District",
+            "name": "Thien-Huong Ninh Villarreal",
+            "title": "professor",
+            "pay": 130309,
+            "key": "Los Rios Community College District||Thien-Huong Ninh Villarreal||professor"
+          },
+          {
+            "campus": "San Joaquin Delta College",
+            "name": "Thien Huong N Villarreal",
+            "title": "dnu hrly instructor sub",
+            "pay": 0,
+            "key": "San Joaquin Delta College||Thien Huong N Villarreal||dnu hrly instructor sub"
+          },
+          {
+            "campus": "San Joaquin Delta College",
+            "name": "Thien Huong N Villarreal",
+            "title": "dnu hrly instructor tc",
+            "pay": 0,
+            "key": "San Joaquin Delta College||Thien Huong N Villarreal||dnu hrly instructor tc"
+          },
+          {
+            "campus": "San Joaquin Delta College",
+            "name": "Thien Huong N Villarreal",
+            "title": "faculty researcher",
+            "pay": 199955,
+            "key": "San Joaquin Delta College||Thien Huong N Villarreal||faculty researcher"
+          },
+          {
+            "campus": "San Joaquin Delta College",
+            "name": "Thien Huong N Villarreal",
+            "title": "overload instructor",
+            "pay": 0,
+            "key": "San Joaquin Delta College||Thien Huong N Villarreal||overload instructor"
+          },
+          {
+            "campus": "San Joaquin Delta College",
+            "name": "Thien Huong N Villarreal",
+            "title": "overload instructor term",
+            "pay": 0,
+            "key": "San Joaquin Delta College||Thien Huong N Villarreal||overload instructor term"
+          },
+          {
+            "campus": "San Jose Evergreen Community College District",
+            "name": "Thien Huong Villarreal",
+            "title": "adj ethnic studies lec",
+            "pay": 89928,
+            "key": "San Jose Evergreen Community College District||Thien Huong Villarreal||adj ethnic studies lec"
+          },
+          {
+            "campus": "State Center Community College District",
+            "name": "Thien-Huong N Villarreal",
+            "title": "adjunct instructor lec",
+            "pay": 80698,
+            "key": "State Center Community College District||Thien-Huong N Villarreal||adjunct instructor lec"
+          },
+          {
+            "campus": "West Valley Mission CCD",
+            "name": "Thien-Huong Ninh Villarreal",
+            "title": "full time instructor",
+            "pay": 83011,
+            "key": "West Valley Mission CCD||Thien-Huong Ninh Villarreal||full time instructor"
+          },
+          {
+            "campus": "Yuba Community College District",
+            "name": "Thien-Huong Villarreal",
+            "title": "bu business commerce nc",
+            "pay": 76674,
+            "key": "Yuba Community College District||Thien-Huong Villarreal||bu business commerce nc"
+          }
+        ],
+        "crossLinks": [
+          {
+            "key": "UC::4713",
+            "system": "UC",
+            "name": "THIEN-HUONG VILLARREAL",
+            "institution": "Berkeley",
+            "title": "LECT-AY-1/10",
+            "pay": 18977,
+            "status": "confirmed"
+          },
+          {
+            "key": "CSU::64044",
+            "system": "CSU",
+            "name": "THIEN-HUONG N VILLARREAL",
+            "institution": "SACRAMENTO",
+            "title": "LECTURER - ACADEMIC YEAR",
+            "pay": 52908.07,
+            "status": "confirmed"
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "1784246556389": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "CSU::64044": {
+            "found": true,
+            "archiveUrl": "data/calmatters_review/evidence/thien-huong-villarreal/csu-sacramento/screenshot-2026-09-23-at-1-53-15-pm.png",
+            "liveUrl": "https://www.csus.edu/college/social-sciences-interdisciplinary-studies/sociology/meet-us/"
+          }
+        },
+        "scheduleCourses": {
+          "Sierra College": [
+            {
+              "code": "The Family",
+              "semester": "Fall 2026",
+              "enrolled": "14",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/sierra-college/screenshot-2026-10-14-at-11-27-01-am.png"
+            },
+            {
+              "code": "The Family",
+              "semester": "Fall 2026",
+              "enrolled": "23",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/sierra-college/screenshot-2026-10-14-at-11-27-01-am.png"
+            },
+            {
+              "code": "Race ethnicity and social inequality",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/sierra-college/screenshot-2026-10-14-at-11-27-01-am.png"
+            },
+            {
+              "code": "SOC 0001 Introduction to Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "40",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 0001 Introduction to Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "31",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 0003 Race, Ethnicity and Inequality",
+              "semester": "Summer 2024",
+              "enrolled": "34",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 0001 Introduction to Sociology",
+              "semester": "Fall 2024",
+              "enrolled": "37",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 0009 Intro Crime/Deviance/Soc Cntrl",
+              "semester": "Fall 2024",
+              "enrolled": "28",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "Cuesta College": [
+            {
+              "code": "Intro to Gender Studies",
+              "semester": "Fall 2026",
+              "enrolled": "42",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/cuesta-college/screenshot-2026-10-14-at-11-59-21-am.png"
+            },
+            {
+              "code": "SOC 201A Intro Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "27",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 202 Social Problems",
+              "semester": "Summer 2024",
+              "enrolled": "20",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 201A Intro Sociology",
+              "semester": "Fall 2024",
+              "enrolled": "39",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 208 Intro To Gender Studies",
+              "semester": "Fall 2024",
+              "enrolled": "8",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "Los Rios Community College District": [
+            {
+              "code": "Intro to Sociology",
+              "semester": "Fall 2026",
+              "enrolled": "39",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Intro to Sociology",
+              "semester": "Fall 2026",
+              "enrolled": "48",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Intro to Sociology",
+              "semester": "Fall 2026",
+              "enrolled": "34",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Social problems",
+              "semester": "Fall 2026",
+              "enrolled": "53",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Social problems",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Intro to social research + lab",
+              "semester": "Fall 2026",
+              "enrolled": "32",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "Race ethnicity and social inequality",
+              "semester": "Fall 2026",
+              "enrolled": "41",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/los-rios-community-college-district/los-rios-villarreal-fall-2026.pdf"
+            },
+            {
+              "code": "SOC 300 Introductory Sociology",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 300 Introductory Sociology",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 300 Introductory Sociology",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 301 Social Problems",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 302 Introduction to Social Research Methods",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 302 Introduction to Social Research Methods",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 321 Race, Ethnicity and Inequality in the United States",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 301 Social Problems",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 302 Introduction to Social Research Methods",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 302 Introduction to Social Research Methods",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 301 Social Problems",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "San Joaquin Delta College": [
+            {
+              "code": "Intro to Marketing",
+              "semester": "Fall 2026",
+              "enrolled": "27",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-45-21-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "49",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "47",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "48",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "46",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Asian American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "32",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-48-15-am.png"
+            },
+            {
+              "code": "Intro to Social problems",
+              "semester": "Fall 2026",
+              "enrolled": "48",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-50-58-am.png"
+            },
+            {
+              "code": "Intro to Sociology",
+              "semester": "Fall 2026",
+              "enrolled": "26",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-joaquin-delta-college/screenshot-2026-10-14-at-11-52-34-am.png"
+            },
+            {
+              "code": "SOCIO 1A Introduction to Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOCIO 1A Introduction to Sociology",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHNS 36 Intro Asian American Studies",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOCIO 1A Introduction to Sociology",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOCIO 27 Introduction to Gender",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHNS 36 Intro Asian American Studies",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHNS 36 Intro Asian American Studies",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "San Jose Evergreen Community College District": [
+            {
+              "code": "Vietnamese American Culture",
+              "semester": "Fall 2026",
+              "enrolled": "48",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-jose-evergreen-community-college-district/screenshot-2026-10-14-at-12-12-45-pm.png"
+            },
+            {
+              "code": "Vietnamese American Culture",
+              "semester": "Fall 2026",
+              "enrolled": "48",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/san-jose-evergreen-community-college-district/screenshot-2026-10-14-at-12-12-45-pm.png"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 42 Asian American Experience",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 11 Ethnic Images in Film",
+              "semester": "Fall 2024",
+              "enrolled": "39",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Fall 2024",
+              "enrolled": "49",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETH 40 Vietnamese Amer.Culture/Exper.",
+              "semester": "Fall 2024",
+              "enrolled": "52",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 10 Introduction to Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "State Center Community College District": [
+            {
+              "code": "Intro to sociology",
+              "semester": "Fall 2026",
+              "enrolled": "41",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/state-center-community-college-district/screenshot-2026-10-14-at-12-15-29-pm.png"
+            },
+            {
+              "code": "Intro to sociology",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/state-center-community-college-district/screenshot-2026-10-14-at-12-15-29-pm.png"
+            },
+            {
+              "code": "Social problems",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/state-center-community-college-district/screenshot-2026-10-14-at-12-15-29-pm.png"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1B CRITICAL THINKING ABOUT SOCIAL PROBLEMS",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1B CRITICAL THINKING ABOUT SOCIAL PROBLEMS",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 2 AMERICAN MINORITY GROUPS",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 11 SOCIOLOGY OF GENDER",
+              "semester": "Spring 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Summer 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1A INTRODUCTION TO SOCIOLOGY",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 1B CRITICAL THINKING ABOUT SOCIAL PROBLEMS",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOC 32 COURTSHIP, MARRIAGE, AND DIVORCE: FAMILY & INTERPERSONAL RELATIONSHIPS",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "Yuba Community College District": [
+            {
+              "code": "Computer & Mach Calc",
+              "semester": "Fall 2026",
+              "enrolled": "20",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/yuba-community-college-district/screenshot-2026-10-14-at-1-06-32-pm.png"
+            },
+            {
+              "code": "Intro to Chicanx studies",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/yuba-community-college-district/screenshot-2026-10-14-at-1-06-32-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies",
+              "semester": "Fall 2026",
+              "enrolled": "30",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/yuba-community-college-district/screenshot-2026-10-14-at-1-06-32-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies",
+              "semester": "Fall 2026",
+              "enrolled": "30",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/yuba-community-college-district/screenshot-2026-10-14-at-1-06-32-pm.png"
+            },
+            {
+              "code": "GNBUS 32 Word Processing App",
+              "semester": "Spring 2024",
+              "enrolled": "9",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Spring 2024",
+              "enrolled": "35",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Spring 2024",
+              "enrolled": "27",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "GNBUS 30 Bus Comp Apps",
+              "semester": "Spring 2024",
+              "enrolled": "27",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "SOCIL 1 Intro to Sociology",
+              "semester": "Spring 2024",
+              "enrolled": "34",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 1 Intro Chinanx Stds",
+              "semester": "Summer 2024",
+              "enrolled": "39",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Summer 2024",
+              "enrolled": "30",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Summer 2024",
+              "enrolled": "32",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "GNBUS 30 Bus Comp Apps",
+              "semester": "Fall 2024",
+              "enrolled": "28",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "GNBUS 41 Comp op Systems",
+              "semester": "Fall 2024",
+              "enrolled": "19",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Fall 2024",
+              "enrolled": "37",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 11 Intro Ethnic Std",
+              "semester": "Fall 2024",
+              "enrolled": "26",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "Gavilan College": [
+            {
+              "code": "ETHN3B /  SOC3 Race and Ethnicity",
+              "semester": "Spring 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/gavilan-college/gavilan-thien-spring-2026.png"
+            },
+            {
+              "code": "ETHN 3B RACE AND ETHNICITY",
+              "semester": "Fall 2024",
+              "enrolled": "29",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ],
+          "West Valley Mission CCD": [
+            {
+              "code": "ETHN 001: Introduction to Ethnic and Social Justice Studies",
+              "semester": "Spring 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/west-valley-mission-ccd/west-valley-thien-spring-2026.png"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Summer 2024",
+              "enrolled": "34",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Fall 2024",
+              "enrolled": "43",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Fall 2024",
+              "enrolled": "41",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Fall 2024",
+              "enrolled": "39",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Fall 2024",
+              "enrolled": "38",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "ETHN 001 Intro - Ethnic/Social Justice",
+              "semester": "Fall 2024",
+              "enrolled": "40",
+              "link": "See data/course-schedules/sections.csv"
+            },
+            {
+              "code": "Many courses -- see link",
+              "semester": "Spring 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/west-valley-mission-ccd/screenshot-2026-10-26-at-4-02-05-pm.png"
+            }
+          ],
+          "UC::4713": [
+            {
+              "code": "Principles of Sociology (2024 and 2025)",
+              "semester": "Fall 2025",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/uc-berkeley/screenshot-2026-09-23-at-1-48-13-pm.png"
+            }
+          ],
+          "CSU::64044": [
+            {
+              "code": "Ethnic + Race Relations",
+              "semester": "Fall 2026",
+              "enrolled": "25",
+              "link": "data/calmatters_review/evidence/thien-huong-villarreal/csu-sacramento/screenshot-2026-10-14-at-1-17-26-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 23,
+    "record_count": 8,
+    "campuses": [
+      {
+        "campus": "Barstow College",
+        "records": [
+          {
+            "name": "Bobby M Seals",
+            "title": "certificated hourly",
+            "pay": 2376
+          }
+        ]
+      },
+      {
+        "campus": "College of the Siskiyous",
+        "records": [
+          {
+            "name": "Bobby Seals",
+            "title": "pt faculty instructional one time payout",
+            "pay": 39959
+          }
+        ]
+      },
+      {
+        "campus": "Foothill-De Anza Community College District",
+        "records": [
+          {
+            "name": "Bobby Seals",
+            "title": "part time faculty instruct",
+            "pay": 51622
+          }
+        ]
+      },
+      {
+        "campus": "Hartnell College",
+        "records": [
+          {
+            "name": "Bobby M Seals",
+            "title": "adjunct instructor",
+            "pay": 6642
+          }
+        ]
+      },
+      {
+        "campus": "Peralta Community College District",
+        "records": [
+          {
+            "name": "Bobby Maurice Seals",
+            "title": "instructortemporary",
+            "pay": 30654
+          }
+        ]
+      },
+      {
+        "campus": "San Jose Evergreen Community College District",
+        "records": [
+          {
+            "name": "Bobby Seals",
+            "title": "instructor ethnic studies",
+            "pay": 175291
+          }
+        ]
+      },
+      {
+        "campus": "San Mateo Community College District",
+        "records": [
+          {
+            "name": "Bobby M Seals",
+            "title": "hrly fac humanities",
+            "pay": 1149
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Bobby Seals",
+            "title": "part time instr load member",
+            "pay": 48306
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 355999,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784069491041,
+        "name": "Bobby Seals",
+        "records": [
+          {
+            "campus": "Barstow College",
+            "name": "Bobby M Seals",
+            "title": "certificated hourly",
+            "pay": 2376,
+            "key": "Barstow College||Bobby M Seals||certificated hourly"
+          },
+          {
+            "campus": "College of the Siskiyous",
+            "name": "Bobby Seals",
+            "title": "pt faculty instructional one time payout",
+            "pay": 39959,
+            "key": "College of the Siskiyous||Bobby Seals||pt faculty instructional one time payout"
+          },
+          {
+            "campus": "Hartnell College",
+            "name": "Bobby M Seals",
+            "title": "adjunct instructor",
+            "pay": 6642,
+            "key": "Hartnell College||Bobby M Seals||adjunct instructor"
+          },
+          {
+            "campus": "Peralta Community College District",
+            "name": "Bobby Maurice Seals",
+            "title": "instructortemporary",
+            "pay": 30654,
+            "key": "Peralta Community College District||Bobby Maurice Seals||instructortemporary"
+          },
+          {
+            "campus": "San Jose Evergreen Community College District",
+            "name": "Bobby Seals",
+            "title": "instructor ethnic studies",
+            "pay": 175291,
+            "key": "San Jose Evergreen Community College District||Bobby Seals||instructor ethnic studies"
+          },
+          {
+            "campus": "Ventura County CCD",
+            "name": "Bobby Seals",
+            "title": "part time instr load member",
+            "pay": 48306,
+            "key": "Ventura County CCD||Bobby Seals||part time instr load member"
+          },
+          {
+            "campus": "Foothill-De Anza Community College District",
+            "name": "Bobby Seals",
+            "title": "part time faculty instruct",
+            "pay": 51622,
+            "key": "Foothill-De Anza Community College District||Bobby Seals||part time faculty instruct"
+          }
+        ],
+        "crossLinks": [
+          {
+            "key": "CSU::86261",
+            "system": "CSU",
+            "name": "BOBBY M SEALS",
+            "institution": "SAN JOSE",
+            "title": "LECTURER - ACADEMIC YEAR",
+            "pay": 88679.72,
+            "status": "confirmed"
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "1784069491041": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Foothill-De Anza Community College District": {
+            "found": true,
+            "liveUrl": "https://www.deanza.edu/directory/user.html?u=sealsbobby",
+            "archiveUrl": "https://web.archive.org/web/20261021223407/https://www.deanza.edu/directory/user.html?u=sealsbobby&__cf_chl_rt_tk=f85e_11YMWo2Zd.KA1V8R_4.rxSny0ry6c.0.W4.aQk-1792622047-1.0.1.1-IQJ15l5GTLNWBfRN_k.8.mc.QyVaRqRtQiyPxaAk5LQ"
+          },
+          "CSU::86261": {
+            "found": true,
+            "archiveUrl": "https://web.archive.org/web/20261021223626/https://www.sjsu.edu/anthropology/about-us/people/faculty/seals.php",
+            "liveUrl": "https://www.sjsu.edu/anthropology/about-us/people/faculty/seals.php"
+          },
+          "Barstow College": {
+            "found": true,
+            "liveUrl": "https://www.barstow.edu/directory/bobby-seals",
+            "archiveUrl": "data/calmatters_review/evidence/bobby-seals/barstow-college/barstow-evidence.pdf"
+          }
+        },
+        "scheduleCourses": {
+          "Barstow College": [],
+          "College of the Siskiyous": [
+            {
+              "code": "Ethnic studies ",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/bobby-seals/college-of-the-siskiyous/screenshot-2026-10-15-at-2-06-45-pm.png"
+            },
+            {
+              "code": "Ethnic studies ",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/bobby-seals/college-of-the-siskiyous/screenshot-2026-10-15-at-2-06-45-pm.png"
+            },
+            {
+              "code": "Psychology of prejudice",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/bobby-seals/college-of-the-siskiyous/screenshot-2026-10-15-at-2-06-45-pm.png"
+            }
+          ],
+          "Hartnell College": [
+            {
+              "code": "Intro to Ethnic Study ",
+              "semester": "Fall 2026",
+              "enrolled": "47",
+              "link": "data/calmatters_review/evidence/bobby-seals/hartnell-college/screenshot-2026-10-21-at-17-29-16-course-catalog-hartnell-student-self-service.png"
+            },
+            {
+              "code": "Intro to Ethnic Study ",
+              "semester": "Fall 2026",
+              "enrolled": "49",
+              "link": "data/calmatters_review/evidence/bobby-seals/hartnell-college/screenshot-2026-10-21-at-17-29-16-course-catalog-hartnell-student-self-service.png"
+            },
+            {
+              "code": "Intro to African-American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/bobby-seals/hartnell-college/screenshot-2026-10-21-at-17-29-16-course-catalog-hartnell-student-self-service.png"
+            }
+          ],
+          "Peralta Community College District": [
+            {
+              "code": "Intro to Ethnic Studies (online)",
+              "semester": "Fall 2026",
+              "enrolled": "38",
+              "link": "data/calmatters_review/evidence/bobby-seals/peralta-community-college-district/screenshot-2026-10-15-at-2-14-19-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies (online)",
+              "semester": "Fall 2026",
+              "enrolled": "38",
+              "link": "data/calmatters_review/evidence/bobby-seals/peralta-community-college-district/screenshot-2026-10-15-at-2-14-19-pm.png"
+            }
+          ],
+          "San Jose Evergreen Community College District": [
+            {
+              "code": "Intro to Ethnic Studies ",
+              "semester": "Fall 2026",
+              "enrolled": "41",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-22-24-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies ",
+              "semester": "Fall 2026",
+              "enrolled": "47",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-22-31-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies  - AF",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-22-39-pm.png"
+            },
+            {
+              "code": "Intro to Ethnic Studies ",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-23-02-pm.png"
+            },
+            {
+              "code": "Ethnic images in film",
+              "semester": "Fall 2026",
+              "enrolled": "39",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-24-20-pm.png"
+            },
+            {
+              "code": "African-American Culture",
+              "semester": "Fall 2026",
+              "enrolled": "15",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-24-51-pm.png"
+            },
+            {
+              "code": "The Afro-Latinx experience",
+              "semester": "Fall 2026",
+              "enrolled": "31",
+              "link": "data/calmatters_review/evidence/bobby-seals/san-jose-evergreen-community-college-district/screenshot-2026-10-15-at-2-25-37-pm.png"
+            }
+          ],
+          "Ventura County CCD": [
+            {
+              "code": "Intro to African American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/bobby-seals/ventura-county-ccd/screenshot-2026-10-15-at-2-28-40-pm.png"
+            },
+            {
+              "code": "Intro to African American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/bobby-seals/ventura-county-ccd/screenshot-2026-10-15-at-2-28-40-pm.png"
+            },
+            {
+              "code": "Intro to African American Studies",
+              "semester": "Fall 2026",
+              "enrolled": "42",
+              "link": "data/calmatters_review/evidence/bobby-seals/ventura-county-ccd/screenshot-2026-10-15-at-2-28-40-pm.png"
+            }
+          ],
+          "CSU::86261": [
+            {
+              "code": "Aesthetics of Hip hop",
+              "semester": "Fall 2026",
+              "enrolled": "119",
+              "link": "data/calmatters_review/evidence/bobby-seals/csu-san-jose/screenshot-2026-10-15-at-2-35-32-pm.png"
+            },
+            {
+              "code": "Cultural Anthropology",
+              "semester": "Fall 2026",
+              "enrolled": "76",
+              "link": "data/calmatters_review/evidence/bobby-seals/csu-san-jose/screenshot-2026-10-15-at-2-34-57-pm.png"
+            },
+            {
+              "code": "Race and Ethnicity in Public Space",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/bobby-seals/csu-san-jose/screenshot-2026-10-15-at-2-35-51-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 28,
+    "record_count": 8,
+    "campuses": [
+      {
+        "campus": "Antelope Valley College",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "adjunct faculty lecture",
+            "pay": 45377
+          }
+        ]
+      },
+      {
+        "campus": "Coast Community College District",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "hourly instructor",
+            "pay": 3784
+          }
+        ]
+      },
+      {
+        "campus": "El Camino College",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "aftpt",
+            "pay": 79787
+          }
+        ]
+      },
+      {
+        "campus": "Long Beach City College",
+        "records": [
+          {
+            "name": "Micheal John Huff",
+            "title": "pt faculty equal pay",
+            "pay": 49102
+          }
+        ]
+      },
+      {
+        "campus": "Los Angeles Community College District",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "instructor adjunct",
+            "pay": 62690
+          }
+        ]
+      },
+      {
+        "campus": "Santa Barbara City College",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "instructor",
+            "pay": 50576
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "part time instr load member",
+            "pay": 33885
+          }
+        ]
+      },
+      {
+        "campus": "Victor Valley College",
+        "records": [
+          {
+            "name": "Micheal Huff",
+            "title": "pt new faculty",
+            "pay": 46921
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 372122,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784158307911,
+        "name": "Micheal Huff",
+        "records": [
+          {
+            "campus": "Ventura County CCD",
+            "name": "Micheal Huff",
+            "title": "part time instr load member",
+            "pay": 33885,
+            "key": "Ventura County CCD||Micheal Huff||part time instr load member"
+          },
+          {
+            "campus": "Los Angeles Community College District",
+            "name": "Micheal Huff",
+            "title": "instructor adjunct",
+            "pay": 62690,
+            "key": "Los Angeles Community College District||Micheal Huff||instructor adjunct"
+          },
+          {
+            "campus": "Long Beach City College",
+            "name": "Micheal John Huff",
+            "title": "pt faculty equal pay",
+            "pay": 49102,
+            "key": "Long Beach City College||Micheal John Huff||pt faculty equal pay"
+          },
+          {
+            "campus": "Antelope Valley College",
+            "name": "Micheal Huff",
+            "title": "adjunct faculty lecture",
+            "pay": 45377,
+            "key": "Antelope Valley College||Micheal Huff||adjunct faculty lecture"
+          },
+          {
+            "campus": "Coast Community College District",
+            "name": "Micheal Huff",
+            "title": "hourly instructor",
+            "pay": 3784,
+            "key": "Coast Community College District||Micheal Huff||hourly instructor"
+          },
+          {
+            "campus": "El Camino College",
+            "name": "Micheal Huff",
+            "title": "aftpt",
+            "pay": 79787,
+            "key": "El Camino College||Micheal Huff||aftpt"
+          },
+          {
+            "campus": "Santa Barbara City College",
+            "name": "Micheal Huff",
+            "title": "instructor",
+            "pay": 50576,
+            "key": "Santa Barbara City College||Micheal Huff||instructor"
+          },
+          {
+            "campus": "Victor Valley College",
+            "name": "Micheal Huff",
+            "title": "pt new faculty",
+            "pay": 46921,
+            "key": "Victor Valley College||Micheal Huff||pt new faculty"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1784158307911": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Ventura County CCD": {
+            "found": true,
+            "liveUrl": "https://www.vcccd.edu/directory/micheal-huff",
+            "archiveUrl": "https://web.archive.org/web/20261022150500/https://www.vcccd.edu/directory/micheal-huff"
+          },
+          "Antelope Valley College": {
+            "found": true,
+            "liveUrl": "https://www.avc.edu/program/psychology-psy",
+            "archiveUrl": "https://web.archive.org/web/20261022155337/https://www.avc.edu/program/psychology-psy"
+          },
+          "Santa Barbara City College": {
+            "found": true,
+            "liveUrl": "https://www.sbcc.edu/psychology/bio_huff.php"
+          }
+        },
+        "scheduleCourses": {
+          "Ventura County CCD": [
+            {
+              "code": "Intro to Behavioral Sciences",
+              "semester": "Fall 2026",
+              "enrolled": "18",
+              "link": "data/calmatters_review/evidence/micheal-huff/ventura-county-ccd/screenshot-2026-07-15-at-4-33-06-pm.png"
+            },
+            {
+              "code": "Human Sexuality",
+              "semester": "Fall 2026",
+              "enrolled": "19",
+              "link": "data/calmatters_review/evidence/micheal-huff/ventura-county-ccd/screenshot-2026-07-15-at-4-33-06-pm.png"
+            },
+            {
+              "code": "Intro Psych",
+              "semester": "Fall 2026",
+              "enrolled": "17",
+              "link": "data/calmatters_review/evidence/micheal-huff/ventura-county-ccd/screenshot-2026-07-15-at-4-33-06-pm.png"
+            }
+          ],
+          "Los Angeles Community College District": [
+            {
+              "code": "Psychology of Women",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/micheal-huff/los-angeles-community-college-district/screenshot-2026-07-17-at-11-21-31-am.png"
+            },
+            {
+              "code": "Psychological Aspects of Human Sexuality",
+              "semester": "Fall 2026",
+              "enrolled": "4",
+              "link": "data/calmatters_review/evidence/micheal-huff/los-angeles-community-college-district/screenshot-2026-07-17-at-11-21-31-am.png"
+            }
+          ],
+          "Long Beach City College": [
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/micheal-huff/long-beach-city-college/screenshot-2026-07-17-at-11-57-50-am.png"
+            },
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "2",
+              "link": "data/calmatters_review/evidence/micheal-huff/long-beach-city-college/screenshot-2026-07-17-at-11-57-50-am.png"
+            },
+            {
+              "code": "Social Psych",
+              "semester": "Fall 2026",
+              "enrolled": "23",
+              "link": "data/calmatters_review/evidence/micheal-huff/long-beach-city-college/screenshot-2026-07-17-at-11-58-48-am.png"
+            }
+          ],
+          "Antelope Valley College": [
+            {
+              "code": "PSY 201 - Intro Physiological Psych",
+              "semester": "Fall 2026",
+              "enrolled": "35",
+              "link": "data/calmatters_review/evidence/micheal-huff/antelope-valley-college/screenshot-2026-07-22-at-12-58-02-pm.png"
+            },
+            {
+              "code": "SY 236 - Developmental Psychology",
+              "semester": "Fall 2026",
+              "enrolled": "35",
+              "link": "data/calmatters_review/evidence/micheal-huff/antelope-valley-college/screenshot-2026-07-22-at-12-58-02-pm.png"
+            },
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/micheal-huff/antelope-valley-college/screenshot-2026-07-22-at-12-58-02-pm.png"
+            }
+          ],
+          "Coast Community College District": [
+            {
+              "code": "PSYC A220 - Psychology of Personality",
+              "semester": "Fall 2026",
+              "enrolled": "36",
+              "link": "data/calmatters_review/evidence/micheal-huff/coast-community-college-district/screenshot-2026-07-22-at-1-02-44-pm.png"
+            },
+            {
+              "code": "PSYC A280 - Intro Expermntl Methods",
+              "semester": "Fall 2026",
+              "enrolled": "25",
+              "link": "data/calmatters_review/evidence/micheal-huff/coast-community-college-district/screenshot-2026-07-22-at-1-02-44-pm.png"
+            }
+          ],
+          "El Camino College": [
+            {
+              "code": "Research methods/behavioral science",
+              "semester": "Fall 2026",
+              "enrolled": "30",
+              "link": "data/calmatters_review/evidence/micheal-huff/el-camino-college/screenshot-2026-07-22-at-1-06-00-pm.png"
+            },
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "27",
+              "link": "data/calmatters_review/evidence/micheal-huff/el-camino-college/screenshot-2026-07-22-at-1-06-00-pm.png"
+            }
+          ],
+          "Santa Barbara City College": [
+            {
+              "code": "Human development",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/micheal-huff/santa-barbara-city-college/screenshot-2026-07-22-at-1-13-45-pm.png"
+            },
+            {
+              "code": "Human development",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/micheal-huff/santa-barbara-city-college/screenshot-2026-07-22-at-1-13-45-pm.png"
+            }
+          ],
+          "Victor Valley College": [
+            {
+              "code": "Biopsychology",
+              "semester": "Fall 2026",
+              "enrolled": "38",
+              "link": "data/calmatters_review/evidence/micheal-huff/victor-valley-college/screenshot-2026-07-22-at-2-20-32-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 42,
+    "record_count": 7,
+    "campuses": [
+      {
+        "campus": "Barstow College",
+        "records": [
+          {
+            "name": "Andrew D Vanden Heuvel",
+            "title": "certificated hourly",
+            "pay": 9135
+          }
+        ]
+      },
+      {
+        "campus": "College of the Sequoias",
+        "records": [
+          {
+            "name": "Andrew Vanden Heuvel",
+            "title": "science",
+            "pay": 9917
+          }
+        ]
+      },
+      {
+        "campus": "Contra Costa Community College District",
+        "records": [
+          {
+            "name": "Andrew Vanden-Heuvel",
+            "title": "astronomy",
+            "pay": 27370
+          }
+        ]
+      },
+      {
+        "campus": "El Camino College",
+        "records": [
+          {
+            "name": "Andrew D. Vanden Heuvel",
+            "title": "aftpt",
+            "pay": 88315
+          }
+        ]
+      },
+      {
+        "campus": "Hartnell College",
+        "records": [
+          {
+            "name": "Andrew D Vanden Heuvel",
+            "title": "adjunct instructor",
+            "pay": 36864
+          }
+        ]
+      },
+      {
+        "campus": "San Jose Evergreen Community College District",
+        "records": [
+          {
+            "name": "Andrew Vanden Heuvel",
+            "title": "adj physical science lab",
+            "pay": 85797
+          }
+        ]
+      },
+      {
+        "campus": "Santa Monica College",
+        "records": [
+          {
+            "name": "Andrew D Vanden Heuvel",
+            "title": "fac tch load",
+            "pay": 63078
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 320476,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784133266114,
+        "name": "Andrew Heuvel",
+        "records": [
+          {
+            "campus": "Barstow College",
+            "name": "Andrew D Vanden Heuvel",
+            "title": "certificated hourly",
+            "pay": 9135,
+            "key": "Barstow College||Andrew D Vanden Heuvel||certificated hourly"
+          },
+          {
+            "campus": "Santa Monica College",
+            "name": "Andrew D Vanden Heuvel",
+            "title": "fac tch load",
+            "pay": 63078,
+            "key": "Santa Monica College||Andrew D Vanden Heuvel||fac tch load"
+          },
+          {
+            "campus": "El Camino College",
+            "name": "Andrew D. Vanden Heuvel",
+            "title": "aftpt",
+            "pay": 88315,
+            "key": "El Camino College||Andrew D. Vanden Heuvel||aftpt"
+          },
+          {
+            "campus": "San Jose Evergreen Community College District",
+            "name": "Andrew Vanden Heuvel",
+            "title": "adj physical science lab",
+            "pay": 85797,
+            "key": "San Jose Evergreen Community College District||Andrew Vanden Heuvel||adj physical science lab"
+          },
+          {
+            "campus": "College of the Sequoias",
+            "name": "Andrew Vanden Heuvel",
+            "title": "science",
+            "pay": 9917,
+            "key": "College of the Sequoias||Andrew Vanden Heuvel||science"
+          },
+          {
+            "campus": "Contra Costa Community College District",
+            "name": "Andrew Vanden-Heuvel",
+            "title": "astronomy",
+            "pay": 27370,
+            "key": "Contra Costa Community College District||Andrew Vanden-Heuvel||astronomy"
+          },
+          {
+            "campus": "Hartnell College",
+            "name": "Andrew D Vanden Heuvel",
+            "title": "adjunct instructor",
+            "pay": 36864,
+            "key": "Hartnell College||Andrew D Vanden Heuvel||adjunct instructor"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1784133266114": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "El Camino College": {
+            "found": true,
+            "liveUrl": "https://www.elcamino.edu/academics/divisions/science-engineering-and-mathematics/astronomy/faculty.php"
+          },
+          "College of the Sequoias": {
+            "found": true,
+            "archiveUrl": "",
+            "liveUrl": "data/calmatters_review/evidence/andrew-heuvel/college-of-the-sequoias/part-time-faculty-seniority-list-february-2025.pdf"
+          }
+        },
+        "scheduleCourses": {
+          "Santa Monica College": [
+            {
+              "code": "Stellar Astronomy with Laboratory",
+              "semester": "Fall 2026",
+              "enrolled": "full",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/santa-monica-college/screenshot-2026-07-16-at-5-12-08-pm.png"
+            }
+          ],
+          "El Camino College": [
+            {
+              "code": "The solar system",
+              "semester": "Fall 2026",
+              "enrolled": "39",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/el-camino-college/screenshot-2026-07-23-at-10-13-36-am.png"
+            },
+            {
+              "code": "Stars and Galaxies",
+              "semester": "Fall 2026",
+              "enrolled": "38",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/el-camino-college/screenshot-2026-07-23-at-10-13-36-am.png"
+            },
+            {
+              "code": "Stars and Galaxies",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/el-camino-college/screenshot-2026-07-23-at-10-13-36-am.png"
+            }
+          ],
+          "San Jose Evergreen Community College District": [
+            {
+              "code": "Intro to Astronomy",
+              "semester": "Fall 2026",
+              "enrolled": "49",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/san-jose-evergreen-community-college-district/screenshot-2026-07-23-at-10-43-30-am.png"
+            },
+            {
+              "code": "Intro to Astronomy",
+              "semester": "Fall 2026",
+              "enrolled": "41",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/san-jose-evergreen-community-college-district/screenshot-2026-07-23-at-10-43-30-am.png"
+            },
+            {
+              "code": "Intro to Astronomy",
+              "semester": "Fall 2026",
+              "enrolled": "20",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/san-jose-evergreen-community-college-district/screenshot-2026-07-23-at-10-43-30-am.png"
+            }
+          ],
+          "Contra Costa Community College District": [
+            {
+              "code": "Astro Lab",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/contra-costa-community-college-district/screenshot-2026-07-23-at-10-51-05-am.png"
+            }
+          ],
+          "Hartnell College": [
+            {
+              "code": "Intro to Astronomy",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/hartnell-college/screenshot-2026-07-23-at-10-53-01-am.png"
+            },
+            {
+              "code": "Astronomy Lab",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/hartnell-college/screenshot-2026-07-23-at-10-53-37-am.png"
+            },
+            {
+              "code": "Astronomy Lab",
+              "semester": "Fall 2026",
+              "enrolled": "6",
+              "link": "data/calmatters_review/evidence/andrew-heuvel/hartnell-college/screenshot-2026-07-23-at-10-53-37-am.png"
+            }
+          ],
+          "Barstow College": [
+            {
+              "code": "ASTR 1",
+              "semester": "Spring 2024",
+              "enrolled": "24",
+              "link": "See data/course-schedules/sections.csv"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 56,
+    "record_count": 7,
+    "campuses": [
+      {
+        "campus": "Cerritos College",
+        "records": [
+          {
+            "name": "Nicholas Michael Nardi",
+            "title": "instructor hourly",
+            "pay": 22831
+          }
+        ]
+      },
+      {
+        "campus": "Long Beach City College",
+        "records": [
+          {
+            "name": "Nicholas M Nardi",
+            "title": "pt faculty equal pay",
+            "pay": 34901
+          }
+        ]
+      },
+      {
+        "campus": "Rancho Santiago Community College District",
+        "records": [
+          {
+            "name": "Nicholas Nardi",
+            "title": "instructor",
+            "pay": 211388
+          }
+        ]
+      },
+      {
+        "campus": "Solano Community College",
+        "records": [
+          {
+            "name": "Nicholas Nardi",
+            "title": "psychology adj instr",
+            "pay": 6365
+          }
+        ]
+      },
+      {
+        "campus": "South Orange Community College District",
+        "records": [
+          {
+            "name": "Nicholas Michael Nardi",
+            "title": "psychology instructor part time",
+            "pay": 46856
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Nicholas Nardi",
+            "title": "part time instr load member",
+            "pay": 44745
+          }
+        ]
+      },
+      {
+        "campus": "Yosemite Community College District",
+        "records": [
+          {
+            "name": "Nicholas Nardi",
+            "title": "psychology doctorate adjunctfall mjc",
+            "pay": 1699
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 368785,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784139914204,
+        "name": "Nicholas Nardi",
+        "records": [
+          {
+            "campus": "Rancho Santiago Community College District",
+            "name": "Nicholas Nardi",
+            "title": "instructor",
+            "pay": 211388,
+            "key": "Rancho Santiago Community College District||Nicholas Nardi||instructor"
+          },
+          {
+            "campus": "South Orange Community College District",
+            "name": "Nicholas Michael Nardi",
+            "title": "psychology instructor part time",
+            "pay": 46856,
+            "key": "South Orange Community College District||Nicholas Michael Nardi||psychology instructor part time"
+          },
+          {
+            "campus": "Ventura County CCD",
+            "name": "Nicholas Nardi",
+            "title": "part time instr load member",
+            "pay": 44745,
+            "key": "Ventura County CCD||Nicholas Nardi||part time instr load member"
+          },
+          {
+            "campus": "Yosemite Community College District",
+            "name": "Nicholas Nardi",
+            "title": "psychology doctorate adjunctfall mjc",
+            "pay": 1699,
+            "key": "Yosemite Community College District||Nicholas Nardi||psychology doctorate adjunctfall mjc"
+          },
+          {
+            "campus": "Long Beach City College",
+            "name": "Nicholas M Nardi",
+            "title": "pt faculty equal pay",
+            "pay": 34901,
+            "key": "Long Beach City College||Nicholas M Nardi||pt faculty equal pay"
+          },
+          {
+            "campus": "Cerritos College",
+            "name": "Nicholas Michael Nardi",
+            "title": "instructor hourly",
+            "pay": 22831,
+            "key": "Cerritos College||Nicholas Michael Nardi||instructor hourly"
+          },
+          {
+            "campus": "Solano Community College",
+            "name": "Nicholas Nardi",
+            "title": "psychology adj instr",
+            "pay": 6365,
+            "key": "Solano Community College||Nicholas Nardi||psychology adj instr"
+          }
+        ],
+        "crossLinks": [
+          {
+            "key": "CSU::49087",
+            "system": "CSU",
+            "name": "NICHOLAS M NARDI",
+            "institution": "LOS ANGELES",
+            "title": "LECTURER - ACADEMIC YEAR",
+            "pay": 88598.22,
+            "status": "confirmed"
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "1784139914204": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "South Orange Community College District": {
+            "found": true,
+            "liveUrl": "https://www.saddleback.edu/bios/nnardi",
+            "archiveUrl": "https://web.archive.org/web/20261021220316/https://www.saddleback.edu/bios/nnardi"
+          },
+          "Yosemite Community College District": {
+            "found": true,
+            "archiveUrl": "PT Facutly Appointment",
+            "liveUrl": "data/calmatters_review/evidence/nicholas-nardi/yosemite-community-college-district/screenshot-2026-09-14-at-3-10-47-pm.png"
+          },
+          "Cerritos College": {
+            "found": true,
+            "liveUrl": "https://www.cerritos.edu/academics/divisions/hss/faculty-by-last-name.htm",
+            "archiveUrl": "https://web.archive.org/web/20261021221041/https://www.cerritos.edu/academics/divisions/hss/faculty-by-last-name.htm"
+          },
+          "Solano Community College": {
+            "found": true,
+            "liveUrl": "https://solano.edu/employee-directory/profiles/nicholas-nardi.php",
+            "archiveUrl": "https://web.archive.org/web/20261021221301/https://solano.edu/employee-directory/profiles/nicholas-nardi.php"
+          },
+          "Ventura County CCD": {
+            "found": true,
+            "liveUrl": "https://www.vcccd.edu/directory/nicholas-nardi",
+            "archiveUrl": "https://web.archive.org/web/20261021220616/https://www.vcccd.edu/directory/nicholas-nardi"
+          },
+          "CSU::49087": {
+            "found": true,
+            "archiveUrl": "https://web.archive.org/web/20261021221302/https://www.calstatela.edu/nss/psychology/psychology-lecturers",
+            "liveUrl": "https://www.calstatela.edu/nss/psychology/psychology-lecturers"
+          }
+        },
+        "scheduleCourses": {
+          "South Orange Community College District": [
+            {
+              "code": "Research Methods in Psychology",
+              "semester": "Fall 2026",
+              "enrolled": "26",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/south-orange-community-college-district/screenshot-2026-10-15-at-11-59-53-am.png"
+            },
+            {
+              "code": "Research Methods in Psychology",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/south-orange-community-college-district/screenshot-2026-10-15-at-11-59-18-am.png"
+            }
+          ],
+          "Ventura County CCD": [
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "36",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/ventura-county-ccd/screenshot-2026-10-15-at-12-02-20-pm.png"
+            },
+            {
+              "code": "Intro to Psych",
+              "semester": "Fall 2026",
+              "enrolled": "39",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/ventura-county-ccd/screenshot-2026-10-15-at-12-02-20-pm.png"
+            }
+          ],
+          "Long Beach City College": [
+            {
+              "code": "Psychology of Adjustment",
+              "semester": "Fall 2026",
+              "enrolled": "38",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/long-beach-city-college/screenshot-2026-10-15-at-12-06-09-pm.png"
+            },
+            {
+              "code": "Psychology of Adjustment",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/long-beach-city-college/screenshot-2026-10-15-at-12-06-09-pm.png"
+            }
+          ],
+          "Cerritos College": [
+            {
+              "code": "PSYCH -  Elementary Statistics",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/cerritos-college/screenshot-2026-07-22-at-3-57-27-pm.png"
+            }
+          ],
+          "Rancho Santiago Community College District": [
+            {
+              "code": "intro to biological psy (lab)",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/rancho-santiago-community-college-district/screenshot-2026-10-15-at-11-38-10-am.png"
+            },
+            {
+              "code": "intro to biological psy (lab)",
+              "semester": "Fall 2026",
+              "enrolled": "16",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/rancho-santiago-community-college-district/screenshot-2026-10-15-at-11-38-10-am.png"
+            },
+            {
+              "code": "Intro to research methods (lab)",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/rancho-santiago-community-college-district/screenshot-2026-10-15-at-11-39-19-am.png"
+            },
+            {
+              "code": "Intro to research methods (lab)",
+              "semester": "Fall 2026",
+              "enrolled": "18",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/rancho-santiago-community-college-district/screenshot-2026-10-15-at-11-39-19-am.png"
+            },
+            {
+              "code": "Intro to Psychology",
+              "semester": "Fall 2026",
+              "enrolled": "34",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/rancho-santiago-community-college-district/screenshot-2026-10-15-at-11-39-54-am.png"
+            }
+          ],
+          "Solano Community College": [
+            {
+              "code": "Intro Psych",
+              "semester": "Fall 2026",
+              "enrolled": "29",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/solano-community-college/screenshot-2026-10-15-at-12-15-40-pm.png"
+            },
+            {
+              "code": "Intro Psych",
+              "semester": "Fall 2026",
+              "enrolled": "29",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/solano-community-college/screenshot-2026-10-15-at-12-15-40-pm.png"
+            }
+          ],
+          "CSU::49087": [
+            {
+              "code": "History and systems of psychology",
+              "semester": "Fall 2026",
+              "enrolled": "63",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/csu-los-angeles/screenshot-2026-10-15-at-12-17-45-pm.png"
+            },
+            {
+              "code": "History and systems of psychology",
+              "semester": "Fall 2026",
+              "enrolled": "65",
+              "link": "data/calmatters_review/evidence/nicholas-nardi/csu-los-angeles/screenshot-2026-10-15-at-12-19-29-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 93,
+    "record_count": 6,
+    "campuses": [
+      {
+        "campus": "Coast Community College District",
+        "records": [
+          {
+            "name": "Noah Thomas",
+            "title": "hourly instructor",
+            "pay": 23592
+          }
+        ]
+      },
+      {
+        "campus": "Long Beach City College",
+        "records": [
+          {
+            "name": "Noah S. Thomas",
+            "title": "pt faculty equal pay",
+            "pay": 22755
+          }
+        ]
+      },
+      {
+        "campus": "Mt San Antonio College",
+        "records": [
+          {
+            "name": "Noah S. Thomas",
+            "title": "adj faculty cr instruction",
+            "pay": 25367
+          }
+        ]
+      },
+      {
+        "campus": "Rio Hondo College",
+        "records": [
+          {
+            "name": "Noah S. Thomas",
+            "title": "part time instructor",
+            "pay": 25162
+          }
+        ]
+      },
+      {
+        "campus": "Sonoma County Junior College District",
+        "records": [
+          {
+            "name": "Noah Thomas",
+            "title": "stnc",
+            "pay": 5420
+          }
+        ]
+      },
+      {
+        "campus": "South Orange Community College District",
+        "records": [
+          {
+            "name": "Noah S Thomas",
+            "title": "art instructor part time",
+            "pay": 8124
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 110420,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1783377948915,
+        "name": "Noah Thomas",
+        "records": [
+          {
+            "campus": "South Orange Community College District",
+            "name": "Noah S Thomas",
+            "title": "art instructor part time",
+            "pay": 8124,
+            "key": "South Orange Community College District||Noah S Thomas||art instructor part time"
+          },
+          {
+            "campus": "Mt San Antonio College",
+            "name": "Noah S. Thomas",
+            "title": "adj faculty cr instruction",
+            "pay": 25367,
+            "key": "Mt San Antonio College||Noah S. Thomas||adj faculty cr instruction"
+          },
+          {
+            "campus": "Rio Hondo College",
+            "name": "Noah S. Thomas",
+            "title": "part time instructor",
+            "pay": 25162,
+            "key": "Rio Hondo College||Noah S. Thomas||part time instructor"
+          },
+          {
+            "campus": "Long Beach City College",
+            "name": "Noah S. Thomas",
+            "title": "pt faculty equal pay",
+            "pay": 22755,
+            "key": "Long Beach City College||Noah S. Thomas||pt faculty equal pay"
+          },
+          {
+            "campus": "Coast Community College District",
+            "name": "Noah Thomas",
+            "title": "hourly instructor",
+            "pay": 23592,
+            "key": "Coast Community College District||Noah Thomas||hourly instructor"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1783377948915": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "South Orange Community College District": {
+            "found": true,
+            "liveUrl": "https://www.ivc.edu/noah-thomas",
+            "archiveUrl": "https://web.archive.org/web/20261102222057/https://www.ivc.edu/noah-thomas"
+          },
+          "Mt San Antonio College": {
+            "found": true,
+            "liveUrl": "https://www.mtsac.edu/profiles/nthomas14.html",
+            "archiveUrl": "https://web.archive.org/web/20261102222331/https://www.mtsac.edu/profiles/nthomas14.html"
+          },
+          "Coast Community College District": {
+            "found": true,
+            "archiveUrl": "https://web.archive.org/web/20261019075035/https://www.cccd.edu/employees/directories.html",
+            "liveUrl": "https://www.cccd.edu/employees/directories.html"
+          }
+        },
+        "scheduleCourses": {
+          "Mt San Antonio College": [
+            {
+              "code": "Design + Lab",
+              "semester": "Fall 2026",
+              "enrolled": "16",
+              "link": "data/calmatters_review/evidence/noah-thomas/mt-san-antonio-college/screenshot-2026-07-14-at-5-52-39-pm.png"
+            }
+          ],
+          "South Orange Community College District": [
+            {
+              "code": "Design",
+              "semester": "Fall 2026",
+              "enrolled": "23",
+              "link": "data/calmatters_review/evidence/noah-thomas/south-orange-community-college-district/screenshot-2026-07-15-at-3-38-10-pm.png"
+            }
+          ],
+          "Long Beach City College": [
+            {
+              "code": "Art 60",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/noah-thomas/long-beach-city-college/screenshot-2026-07-17-at-11-35-33-am.png"
+            },
+            {
+              "code": "Art 61",
+              "semester": "Fall 2026",
+              "enrolled": "1",
+              "link": "data/calmatters_review/evidence/noah-thomas/long-beach-city-college/screenshot-2026-07-17-at-11-36-58-am.png"
+            }
+          ],
+          "Rio Hondo College": [
+            {
+              "code": "Three dimensional design",
+              "semester": "Spring 2026",
+              "enrolled": "23",
+              "link": "https://ssb.riohondo.edu:8443/prodssb/pw_pub_sched.p_course_popup?vsub=ART&vcrse=121&vterm=202630&vcrn=30457"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 128,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "Butte-Glenn Community College District",
+        "records": [
+          {
+            "name": "Timothy Durfield",
+            "title": "general business instructor",
+            "pay": 26305
+          }
+        ]
+      },
+      {
+        "campus": "Chaffey College",
+        "records": [
+          {
+            "name": "Timothy R Durfield",
+            "title": "lecture business administration",
+            "pay": 24002
+          }
+        ]
+      },
+      {
+        "campus": "Citrus College",
+        "records": [
+          {
+            "name": "Timothy Richard Durfield",
+            "title": "instructor",
+            "pay": 263769
+          }
+        ]
+      },
+      {
+        "campus": "Mt San Antonio College",
+        "records": [
+          {
+            "name": "Timothy R. Durfield",
+            "title": "adj faculty cr instruction",
+            "pay": 62143
+          }
+        ]
+      },
+      {
+        "campus": "North Orange Community College District",
+        "records": [
+          {
+            "name": "Timothy Durfield",
+            "title": "adjunct instructor",
+            "pay": 32165
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 408384,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784074882770,
+        "name": "Timothy Durfield",
+        "records": [
+          {
+            "campus": "Mt San Antonio College",
+            "name": "Timothy R. Durfield",
+            "title": "adj faculty cr instruction",
+            "pay": 62143,
+            "key": "Mt San Antonio College||Timothy R. Durfield||adj faculty cr instruction"
+          },
+          {
+            "campus": "Butte-Glenn Community College District",
+            "name": "Timothy Durfield",
+            "title": "general business instructor",
+            "pay": 26305,
+            "key": "Butte-Glenn Community College District||Timothy Durfield||general business instructor"
+          },
+          {
+            "campus": "North Orange Community College District",
+            "name": "Timothy Durfield",
+            "title": "adjunct instructor",
+            "pay": 32165,
+            "key": "North Orange Community College District||Timothy Durfield||adjunct instructor"
+          },
+          {
+            "campus": "Chaffey College",
+            "name": "Timothy R Durfield",
+            "title": "lecture business administration",
+            "pay": 24002,
+            "key": "Chaffey College||Timothy R Durfield||lecture business administration"
+          },
+          {
+            "campus": "Citrus College",
+            "name": "Timothy Richard Durfield",
+            "title": "instructor",
+            "pay": 263769,
+            "key": "Citrus College||Timothy Richard Durfield||instructor"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1784074882770": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Mt San Antonio College": {
+            "found": true,
+            "liveUrl": "https://www.mtsac.edu/profiles/tdurfield.html",
+            "archiveUrl": "https://web.archive.org/web/20261021225012/https://www.mtsac.edu/profiles/tdurfield.html"
+          },
+          "Butte-Glenn Community College District": {
+            "found": true,
+            "liveUrl": "https://www.butte.edu/directory/profiles/durfieldti.html",
+            "archiveUrl": "http://web.archive.org/web/20261021225506/https://www.butte.edu/directory/profiles/durfieldti.html"
+          },
+          "Citrus College": {
+            "found": true,
+            "liveUrl": "https://www.citruscollege.edu/faculty/tdurfield.html",
+            "archiveUrl": "http://web.archive.org/web/20261021230148/https://www.citruscollege.edu/faculty/tdurfield.html"
+          }
+        },
+        "scheduleCourses": {
+          "Mt San Antonio College": [
+            {
+              "code": "Advanced Business law",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/timothy-durfield/mt-san-antonio-college/screenshot-2026-10-15-at-2-53-49-pm.png"
+            },
+            {
+              "code": "Tort Law",
+              "semester": "Fall 2026",
+              "enrolled": "27",
+              "link": "data/calmatters_review/evidence/timothy-durfield/mt-san-antonio-college/screenshot-2026-10-15-at-2-53-49-pm.png"
+            },
+            {
+              "code": "Contract Law",
+              "semester": "Fall 2026",
+              "enrolled": "25",
+              "link": "data/calmatters_review/evidence/timothy-durfield/mt-san-antonio-college/screenshot-2026-10-15-at-2-53-49-pm.png"
+            }
+          ],
+          "Butte-Glenn Community College District": [
+            {
+              "code": "Intro to Business Law",
+              "semester": "Fall 2026",
+              "enrolled": "30",
+              "link": "data/calmatters_review/evidence/timothy-durfield/butte-glenn-community-college-district/screenshot-2026-10-15-at-2-58-26-pm.png"
+            },
+            {
+              "code": "Intro to Business Law",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/timothy-durfield/butte-glenn-community-college-district/screenshot-2026-10-15-at-2-58-26-pm.png"
+            },
+            {
+              "code": "Intro to Business Law",
+              "semester": "Fall 2026",
+              "enrolled": "25",
+              "link": "data/calmatters_review/evidence/timothy-durfield/butte-glenn-community-college-district/screenshot-2026-10-15-at-2-58-26-pm.png"
+            }
+          ],
+          "North Orange Community College District": [
+            {
+              "code": "Personal finance management",
+              "semester": "Fall 2026",
+              "enrolled": "35",
+              "link": "data/calmatters_review/evidence/timothy-durfield/north-orange-community-college-district/screenshot-2026-10-15-at-3-30-53-pm.png"
+            },
+            {
+              "code": "Real Estate practice",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/timothy-durfield/north-orange-community-college-district/screenshot-2026-10-15-at-3-31-21-pm.png"
+            }
+          ],
+          "Chaffey College": [
+            {
+              "code": "Business law",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/timothy-durfield/chaffey-college/screenshot-2026-10-15-at-3-32-16-pm.png"
+            },
+            {
+              "code": "Real estate finance",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/timothy-durfield/chaffey-college/screenshot-2026-10-15-at-3-32-41-pm.png"
+            }
+          ],
+          "Citrus College": [
+            {
+              "code": "Intro to business",
+              "semester": "Fall 2026",
+              "enrolled": "35",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-38-17-pm.png"
+            },
+            {
+              "code": "Principles of money",
+              "semester": "Fall 2026",
+              "enrolled": "24",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-38-50-pm.png"
+            },
+            {
+              "code": "Principles of Money",
+              "semester": "Fall 2026",
+              "enrolled": "23",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-39-40-pm.png"
+            },
+            {
+              "code": "Business law and the legal environment",
+              "semester": "Fall 2026",
+              "enrolled": "23",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-40-10-pm.png"
+            },
+            {
+              "code": "Business law and the legal environment",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-41-14-pm.png"
+            },
+            {
+              "code": "Business law and the legal environment",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-41-51-pm.png"
+            },
+            {
+              "code": "Human resources management",
+              "semester": "Fall 2026",
+              "enrolled": "17",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-42-32-pm.png"
+            },
+            {
+              "code": "Real estate principles",
+              "semester": "Fall 2026",
+              "enrolled": "12",
+              "link": "data/calmatters_review/evidence/timothy-durfield/citrus-college/screenshot-2026-10-15-at-3-43-19-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 185,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "El Camino College",
+        "records": [
+          {
+            "name": "Walter J Meyer",
+            "title": "aftpt",
+            "pay": 23482
+          }
+        ]
+      },
+      {
+        "campus": "Kern Community College District",
+        "records": [
+          {
+            "name": "Walter Meyer",
+            "title": "adjunct no pay",
+            "pay": 25752
+          }
+        ]
+      },
+      {
+        "campus": "Los Angeles Community College District",
+        "records": [
+          {
+            "name": "Walter Meyer",
+            "title": "instructor adjunct",
+            "pay": 76715
+          }
+        ]
+      },
+      {
+        "campus": "North Orange Community College District",
+        "records": [
+          {
+            "name": "Walter Meyer",
+            "title": "adjunct instructor",
+            "pay": 24008
+          }
+        ]
+      },
+      {
+        "campus": "Santa Monica College",
+        "records": [
+          {
+            "name": "Walter J Meyer",
+            "title": "department chair",
+            "pay": 257862
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 407819,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1783451274724,
+        "name": "Walter Meyer",
+        "records": [
+          {
+            "campus": "Santa Monica College",
+            "name": "Walter J Meyer",
+            "title": "department chair",
+            "pay": 257862,
+            "key": "Santa Monica College||Walter J Meyer||department chair"
+          },
+          {
+            "campus": "North Orange Community College District",
+            "name": "Walter Meyer",
+            "title": "adjunct instructor",
+            "pay": 24008,
+            "key": "North Orange Community College District||Walter Meyer||adjunct instructor"
+          },
+          {
+            "campus": "Kern Community College District",
+            "name": "Walter Meyer",
+            "title": "adjunct no pay",
+            "pay": 25752,
+            "key": "Kern Community College District||Walter Meyer||adjunct no pay"
+          },
+          {
+            "campus": "El Camino College",
+            "name": "Walter J Meyer",
+            "title": "aftpt",
+            "pay": 23482,
+            "key": "El Camino College||Walter J Meyer||aftpt"
+          },
+          {
+            "campus": "Los Angeles Community College District",
+            "name": "Walter Meyer",
+            "title": "instructor adjunct",
+            "pay": 76715,
+            "key": "Los Angeles Community College District||Walter Meyer||instructor adjunct"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1783451274724": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Santa Monica College": {
+            "found": true,
+            "liveUrl": "https://www.smc.edu/directory/meyer-walter.php",
+            "archiveUrl": "https://web.archive.org/web/20261021233918/https://www.smc.edu/directory/meyer-walter.php"
+          },
+          "Kern Community College District": {
+            "found": true,
+            "liveUrl": "https://www.bakersfieldcollege.edu/directory/walter_meyer.html",
+            "archiveUrl": "https://web.archive.org/web/20261021234551/https://www.bakersfieldcollege.edu/directory/walter_meyer.html"
+          },
+          "El Camino College": {
+            "found": true,
+            "liveUrl": "https://www.elcamino.edu/directory/walter-meyer.php"
+          },
+          "Los Angeles Community College District": {
+            "found": true,
+            "archiveUrl": "https://www.lavc.edu/academics/aos/art-history"
+          }
+        },
+        "scheduleCourses": {
+          "Santa Monica College": [
+            {
+              "code": "Survey of Art from Prehistory to the Medieval Era",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Survey of Art from Prehistory to the Medieval Era",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Global Art History Since 1860",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Global Art History Since 1860",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Global Art History Since 1860",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Global Art History Since 1860",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            },
+            {
+              "code": "Survey of Art History from Renaissance to Contemporary",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/walter-meyer/santa-monica-college/screenshot-2026-10-15-at-3-59-38-pm.png"
+            }
+          ],
+          "Los Angeles Community College District": [
+            {
+              "code": "Survey of Art from Prehistory to the Medieval Era",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/walter-meyer/los-angeles-community-college-district/screenshot-2026-10-15-at-4-17-26-pm.png"
+            },
+            {
+              "code": "Survey of Art from Prehistory to the Medieval Era",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/walter-meyer/los-angeles-community-college-district/screenshot-2026-10-15-at-4-40-55-pm.png"
+            },
+            {
+              "code": "Survey of Art from Prehistory to the Medieval Era",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/walter-meyer/los-angeles-community-college-district/screenshot-2026-10-15-at-4-41-31-pm.png"
+            },
+            {
+              "code": "Survey from renaissance to contemporary",
+              "semester": "Fall 2026",
+              "enrolled": "41",
+              "link": "data/calmatters_review/evidence/walter-meyer/los-angeles-community-college-district/screenshot-2026-10-15-at-4-42-50-pm.png"
+            }
+          ],
+          "Kern Community College District": [
+            {
+              "code": "Art appreciation",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/walter-meyer/kern-community-college-district/screenshot-2026-10-15-at-4-01-46-pm.png"
+            },
+            {
+              "code": "Art Appreciation",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/walter-meyer/kern-community-college-district/screenshot-2026-10-15-at-4-01-46-pm.png"
+            },
+            {
+              "code": "Art Appreciation",
+              "semester": "Fall 2026",
+              "enrolled": "45",
+              "link": "data/calmatters_review/evidence/walter-meyer/kern-community-college-district/screenshot-2026-10-15-at-4-01-46-pm.png"
+            }
+          ],
+          "El Camino College": [
+            {
+              "code": "History of African Art",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/walter-meyer/el-camino-college/screenshot-2026-10-15-at-4-14-10-pm.png"
+            },
+            {
+              "code": "Survey of Art Rennaissance to Contemporary",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/walter-meyer/el-camino-college/screenshot-2026-10-15-at-4-14-10-pm.png"
+            },
+            {
+              "code": "Survey of Art Rennaissance to Contemporary",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/walter-meyer/el-camino-college/screenshot-2026-10-15-at-4-14-10-pm.png"
+            }
+          ],
+          "North Orange Community College District": [
+            {
+              "code": "American Art History (ARTH 115 F, CRN 11936)",
+              "semester": "Fall 2024",
+              "enrolled": "",
+              "link": "https://art.fullcoll.edu/prog_courses_crndetails_inc.php?coursesectionid=31464"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 207,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "City College of San Francisco",
+        "records": [
+          {
+            "name": "Christopher Collins",
+            "title": "l social sciences",
+            "pay": 17092
+          }
+        ]
+      },
+      {
+        "campus": "Los Rios Community College District",
+        "records": [
+          {
+            "name": "Christopher J. Collins",
+            "title": "adjunct professor",
+            "pay": 12296
+          }
+        ]
+      },
+      {
+        "campus": "San Mateo Community College District",
+        "records": [
+          {
+            "name": "Christopher J Collins",
+            "title": "distance ed coordinator",
+            "pay": 210825
+          }
+        ]
+      },
+      {
+        "campus": "Solano Community College",
+        "records": [
+          {
+            "name": "Christopher Collins",
+            "title": "history",
+            "pay": 37270
+          }
+        ]
+      },
+      {
+        "campus": "South Orange Community College District",
+        "records": [
+          {
+            "name": "Christopher A. Collins",
+            "title": "associate faculty",
+            "pay": 43602
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 321085,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1783464215631,
+        "name": "Christopher Collins",
+        "records": [
+          {
+            "campus": "Solano Community College",
+            "name": "Christopher Collins",
+            "title": "history",
+            "pay": 37270,
+            "key": "Solano Community College||Christopher Collins||history"
+          },
+          {
+            "campus": "San Mateo Community College District",
+            "name": "Christopher J Collins",
+            "title": "distance ed coordinator",
+            "pay": 210825,
+            "key": "San Mateo Community College District||Christopher J Collins||distance ed coordinator"
+          },
+          {
+            "campus": "Los Rios Community College District",
+            "name": "Christopher J. Collins",
+            "title": "adjunct professor",
+            "pay": 12296,
+            "key": "Los Rios Community College District||Christopher J. Collins||adjunct professor"
+          },
+          {
+            "campus": "City College of San Francisco",
+            "name": "Christopher Collins",
+            "title": "l social sciences",
+            "pay": 17092,
+            "key": "City College of San Francisco||Christopher Collins||l social sciences"
+          }
+        ],
+        "crossLinks": [
+          {
+            "key": "UC::327541",
+            "system": "UC",
+            "name": "CHRISTOPHER COLLINS",
+            "institution": "Santa Barbara",
+            "title": "ACADEMIC COORD I-FY",
+            "pay": 75940,
+            "status": "confirmed"
+          },
+          {
+            "key": "CSU::80554",
+            "system": "CSU",
+            "name": "CHRISTOPHER J COLLINS",
+            "institution": "SAN FRANCISCO",
+            "title": "LECTURER - ACADEMIC YEAR",
+            "pay": 33325.81,
+            "status": "confirmed"
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "1783464215631": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "San Mateo Community College District": {
+            "found": true,
+            "liveUrl": "https://catalog.skylinecollege.edu/current/faculty/facultylist.php",
+            "archiveUrl": "https://web.archive.org/web/20261022150048/https://catalog.skylinecollege.edu/current/faculty/facultylist.php"
+          },
+          "Solano Community College": {
+            "found": true,
+            "liveUrl": "https://solano.edu/employee-directory/profiles/christopher-collins.php",
+            "archiveUrl": "https://web.archive.org/web/20261022142808/https://solano.edu/employee-directory/profiles/christopher-collins.php"
+          },
+          "City College of San Francisco": {
+            "found": true,
+            "liveUrl": "https://www.ccsf.edu/directory/christopher-collins",
+            "archiveUrl": "https://web.archive.org/web/20261022150113/https://www.ccsf.edu/directory/christopher-collins"
+          },
+          "Los Rios Community College District": {
+            "found": true,
+            "archiveUrl": "data/calmatters_review/evidence/christopher-collins/los-rios-community-college-district/screenshot-2026-09-16-at-12-28-21-pm.png",
+            "liveUrl": "https://www.linkedin.com/in/christopher-collins-01/details/experience/"
+          },
+          "CSU::80554": {
+            "found": true,
+            "liveUrl": "https://www.linkedin.com/in/christopher-collins-01/details/experience/"
+          },
+          "UC::327541": {
+            "found": true,
+            "liveUrl": "https://www.linkedin.com/in/christopher-collins-01/details/experience/"
+          }
+        },
+        "scheduleCourses": {
+          "San Mateo Community College District": [
+            {
+              "code": "Af - Am History",
+              "semester": "Fall 2026",
+              "enrolled": "2",
+              "link": "data/calmatters_review/evidence/christopher-collins/san-mateo-community-college-district/screenshot-2026-10-22-at-09-57-11-class-search.png"
+            },
+            {
+              "code": "Af - Am History",
+              "semester": "Fall 2026",
+              "enrolled": "33",
+              "link": "data/calmatters_review/evidence/christopher-collins/san-mateo-community-college-district/screenshot-2026-10-22-at-09-57-11-class-search.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 234,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "College of the Canyons",
+        "records": [
+          {
+            "name": "Rodolfo Santana",
+            "title": "adjunct instuctor",
+            "pay": 1103
+          }
+        ]
+      },
+      {
+        "campus": "Los Angeles Community College District",
+        "records": [
+          {
+            "name": "Rodolfo Santana",
+            "title": "instructor",
+            "pay": 201067
+          }
+        ]
+      },
+      {
+        "campus": "Pasadena City College",
+        "records": [
+          {
+            "name": "Rodolfo Santana",
+            "title": "adjunct faculty",
+            "pay": 71978
+          }
+        ]
+      },
+      {
+        "campus": "Santa Monica College",
+        "records": [
+          {
+            "name": "Rodolfo Santana",
+            "title": "fac tch load",
+            "pay": 42602
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Rodolfo Santana",
+            "title": "part time instr load member",
+            "pay": 29443
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 346193,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784219442369,
+        "name": "Rodolfo Santana",
+        "records": [
+          {
+            "campus": "Ventura County CCD",
+            "name": "Rodolfo Santana",
+            "title": "part time instr load member",
+            "pay": 29443,
+            "key": "Ventura County CCD||Rodolfo Santana||part time instr load member"
+          },
+          {
+            "campus": "Pasadena City College",
+            "name": "Rodolfo Santana",
+            "title": "adjunct faculty",
+            "pay": 71978,
+            "key": "Pasadena City College||Rodolfo Santana||adjunct faculty"
+          },
+          {
+            "campus": "College of the Canyons",
+            "name": "Rodolfo Santana",
+            "title": "adjunct instuctor",
+            "pay": 1103,
+            "key": "College of the Canyons||Rodolfo Santana||adjunct instuctor"
+          },
+          {
+            "campus": "Santa Monica College",
+            "name": "Rodolfo Santana",
+            "title": "fac tch load",
+            "pay": 42602,
+            "key": "Santa Monica College||Rodolfo Santana||fac tch load"
+          },
+          {
+            "campus": "Los Angeles Community College District",
+            "name": "Rodolfo Santana",
+            "title": "instructor",
+            "pay": 201067,
+            "key": "Los Angeles Community College District||Rodolfo Santana||instructor"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1784219442369": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Ventura County CCD": {
+            "found": true,
+            "liveUrl": "https://www.vcccd.edu/sites/default/files/departments/human-resources/01.13.17_h.r._actions.pdf",
+            "archiveUrl": "https://web.archive.org/web/20261022160000/https://www.vcccd.edu/sites/default/files/departments/human-resources/01.13.17_h.r._actions.pdf"
+          },
+          "Pasadena City College": {
+            "found": true,
+            "liveUrl": "https://pasadena.edu/academics/divisions/natural-sciences/about/people/index.php",
+            "archiveUrl": "https://web.archive.org/web/20261022160231/https://pasadena.edu/academics/divisions/natural-sciences/about/people/index.php"
+          },
+          "Los Angeles Community College District": {
+            "found": true,
+            "liveUrl": "data/calmatters_review/evidence/rodolfo-santana/los-angeles-community-college-district/screenshot-2026-07-29-at-4-06-35-pm.png"
+          },
+          "College of the Canyons": {
+            "found": true,
+            "liveUrl": "https://www.canyons.edu/directory/default.php?id=Rodolfo.Santana@canyons.edu",
+            "archiveUrl": "https://web.archive.org/web/20261022160350/https://www.canyons.edu/directory/default.php?id=Rodolfo.Santana@canyons.edu"
+          },
+          "Santa Monica College": {
+            "found": true,
+            "liveUrl": "https://www.smc.edu/academics/academic-departments/physical-sciences/faculty.php",
+            "archiveUrl": "https://web.archive.org/web/20261022160510/https://www.smc.edu/academics/academic-departments/physical-sciences/faculty.php"
+          }
+        },
+        "scheduleCourses": {
+          "Ventura County CCD": [
+            {
+              "code": "Gen Physics",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/ventura-county-ccd/screenshot-2026-07-16-at-9-40-18-am.png"
+            },
+            {
+              "code": "Gen Physics Lab",
+              "semester": "Fall 2026",
+              "enrolled": "20",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/ventura-county-ccd/screenshot-2026-07-16-at-9-40-18-am.png"
+            },
+            {
+              "code": "Gen Physics Lab",
+              "semester": "Fall 2026",
+              "enrolled": "20",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/ventura-county-ccd/screenshot-2026-07-16-at-9-40-18-am.png"
+            }
+          ],
+          "Pasadena City College": [
+            {
+              "code": "Physics for scientists and engineers",
+              "semester": "Fall 2026",
+              "enrolled": "full",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/pasadena-city-college/screenshot-2026-07-16-at-10-05-34-am.png"
+            }
+          ],
+          "Los Angeles Community College District": [
+            {
+              "code": "Physics for Engineers and Scientists",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/los-angeles-community-college-district/screenshot-2026-07-17-at-11-13-56-am.png"
+            },
+            {
+              "code": "Physics for Engineers and Scientists",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/rodolfo-santana/los-angeles-community-college-district/screenshot-2026-07-17-at-11-13-56-am.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 236,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "Glendale Community College",
+        "records": [
+          {
+            "name": "Jeff Bajah",
+            "title": "summer session instructor",
+            "pay": 42496
+          }
+        ]
+      },
+      {
+        "campus": "Los Angeles Community College District",
+        "records": [
+          {
+            "name": "Jeff Bajah",
+            "title": "instructor adjunct",
+            "pay": 48142
+          }
+        ]
+      },
+      {
+        "campus": "Mt San Antonio College",
+        "records": [
+          {
+            "name": "Jeff T. Bajah",
+            "title": "adj faculty cr instruction",
+            "pay": 6469
+          }
+        ]
+      },
+      {
+        "campus": "Pasadena City College",
+        "records": [
+          {
+            "name": "Jeff T Bajah",
+            "title": "instructor",
+            "pay": 224781
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Jeff Bajah",
+            "title": "part time instr load member",
+            "pay": 23814
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 345702,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784075234388,
+        "name": "Jeff Bajah",
+        "records": [
+          {
+            "campus": "Mt San Antonio College",
+            "name": "Jeff T. Bajah",
+            "title": "adj faculty cr instruction",
+            "pay": 6469,
+            "key": "Mt San Antonio College||Jeff T. Bajah||adj faculty cr instruction"
+          },
+          {
+            "campus": "Ventura County CCD",
+            "name": "Jeff Bajah",
+            "title": "part time instr load member",
+            "pay": 23814,
+            "key": "Ventura County CCD||Jeff Bajah||part time instr load member"
+          },
+          {
+            "campus": "Pasadena City College",
+            "name": "Jeff T Bajah",
+            "title": "instructor",
+            "pay": 224781,
+            "key": "Pasadena City College||Jeff T Bajah||instructor"
+          },
+          {
+            "campus": "Los Angeles Community College District",
+            "name": "Jeff Bajah",
+            "title": "instructor adjunct",
+            "pay": 48142,
+            "key": "Los Angeles Community College District||Jeff Bajah||instructor adjunct"
+          },
+          {
+            "campus": "Glendale Community College",
+            "name": "Jeff Bajah",
+            "title": "summer session instructor",
+            "pay": 42496,
+            "key": "Glendale Community College||Jeff Bajah||summer session instructor"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1784075234388": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Mt San Antonio College": {
+            "found": true,
+            "liveUrl": "https://www.mtsac.edu/profiles/jbajah.html",
+            "archiveUrl": "https://web.archive.org/web/20261022161127/https://www.mtsac.edu/profiles/jbajah.html"
+          },
+          "Ventura County CCD": {
+            "found": true,
+            "liveUrl": "https://www.vcccd.edu/directory/jeff-bajah",
+            "archiveUrl": "https://web.archive.org/save/https://www.vcccd.edu/directory/jeff-bajah"
+          },
+          "Pasadena City College": {
+            "found": true,
+            "liveUrl": "https://pasadena.edu/academics/divisions/business/faculty-staff.php",
+            "archiveUrl": "https://web.archive.org/web/20261022161818/https://pasadena.edu/academics/divisions/business/faculty-staff.php"
+          },
+          "Glendale Community College": {
+            "found": true,
+            "liveUrl": "https://www.glendale.edu/directory/staff-faculty/bajah-jeff.html",
+            "archiveUrl": "https://web.archive.org/web/20261022162333/https://www.glendale.edu/directory/staff-faculty/bajah-jeff.html"
+          }
+        },
+        "scheduleCourses": {
+          "Mt San Antonio College": [
+            {
+              "code": "Principles of Microeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "36",
+              "link": "data/calmatters_review/evidence/jeff-bajah/mt-san-antonio-college/screenshot-2026-10-22-at-11-09-40-class-search.png"
+            },
+            {
+              "code": "Principles of Microeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "11",
+              "link": "data/calmatters_review/evidence/jeff-bajah/mt-san-antonio-college/screenshot-2026-10-22-at-11-09-40-class-search.png"
+            }
+          ],
+          "Ventura County CCD": [
+            {
+              "code": "Principles of Microeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "47",
+              "link": "data/calmatters_review/evidence/jeff-bajah/ventura-county-ccd/screenshot-2026-07-16-at-9-37-30-am.png"
+            },
+            {
+              "code": "Principles of Microeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/jeff-bajah/ventura-county-ccd/screenshot-2026-07-16-at-9-37-30-am.png"
+            },
+            {
+              "code": "Principles of Macroeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "50",
+              "link": "data/calmatters_review/evidence/jeff-bajah/ventura-county-ccd/screenshot-2026-07-16-at-9-37-30-am.png"
+            }
+          ],
+          "Pasadena City College": [
+            {
+              "code": "Statistics for Business and Econ",
+              "semester": "Fall 2026",
+              "enrolled": "25",
+              "link": "data/calmatters_review/evidence/jeff-bajah/pasadena-city-college/screenshot-2026-07-16-at-10-06-36-am.png"
+            },
+            {
+              "code": "Statistics for Business and Econ",
+              "semester": "Fall 2026",
+              "enrolled": "full",
+              "link": "data/calmatters_review/evidence/jeff-bajah/pasadena-city-college/screenshot-2026-07-16-at-10-06-36-am.png"
+            },
+            {
+              "code": "Statistics for Business and Econ",
+              "semester": "Fall 2026",
+              "enrolled": "full",
+              "link": "data/calmatters_review/evidence/jeff-bajah/pasadena-city-college/screenshot-2026-07-16-at-10-06-36-am.png"
+            },
+            {
+              "code": "BUS 014B - MATHEMATICAL ANALYSIS FOR BUSINESS - CALCULUS",
+              "semester": "Fall 2026",
+              "enrolled": "full",
+              "link": "data/calmatters_review/evidence/jeff-bajah/pasadena-city-college/screenshot-2026-07-16-at-10-13-24-am.png"
+            }
+          ],
+          "Los Angeles Community College District": [
+            {
+              "code": "Principles of Macroeconomics",
+              "semester": "Fall 2026",
+              "enrolled": "29",
+              "link": "data/calmatters_review/evidence/jeff-bajah/los-angeles-community-college-district/screenshot-2026-11-03-at-12-51-09-view-schedule-of-classes.png"
+            },
+            {
+              "code": "ECON C2001 - Principles of Microeconomics ",
+              "semester": "Fall 2026",
+              "enrolled": "20",
+              "link": "data/calmatters_review/evidence/jeff-bajah/los-angeles-community-college-district/screenshot-2026-11-03-at-12-51-09-view-schedule-of-classes.png"
+            }
+          ],
+          "Glendale Community College": [
+            {
+              "code": "Micro",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/jeff-bajah/glendale-community-college/screenshot-2026-10-22-at-11-22-13-view-schedule-of-classes.png"
+            },
+            {
+              "code": "Micro",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/jeff-bajah/glendale-community-college/screenshot-2026-10-22-at-11-22-13-view-schedule-of-classes.png"
+            },
+            {
+              "code": "Macro",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/jeff-bajah/glendale-community-college/screenshot-2026-10-22-at-11-22-13-view-schedule-of-classes.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 246,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "Mt San Antonio College",
+        "records": [
+          {
+            "name": "Tina Lorene . Leonard",
+            "title": "adj faculty cr instruction",
+            "pay": 43177
+          }
+        ]
+      },
+      {
+        "campus": "San Bernardino Community College District",
+        "records": [
+          {
+            "name": "Tina L Leonard",
+            "title": "acadmic professor",
+            "pay": 14738
+          }
+        ]
+      },
+      {
+        "campus": "South Orange Community College District",
+        "records": [
+          {
+            "name": "Tina Lorene Leonard",
+            "title": "american sign language instructor part time",
+            "pay": 8874
+          }
+        ]
+      },
+      {
+        "campus": "Ventura County CCD",
+        "records": [
+          {
+            "name": "Tina Leonard",
+            "title": "part time instr load nonmem",
+            "pay": 14855
+          }
+        ]
+      },
+      {
+        "campus": "Victor Valley College",
+        "records": [
+          {
+            "name": "Tina L Leonard",
+            "title": "pt new faculty",
+            "pay": 2673
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 84317,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1783466672605,
+        "name": "Tina Leonard",
+        "records": [
+          {
+            "campus": "South Orange Community College District",
+            "name": "Tina Lorene Leonard",
+            "title": "american sign language instructor part time",
+            "pay": 8874,
+            "key": "South Orange Community College District||Tina Lorene Leonard||american sign language instructor part time"
+          },
+          {
+            "campus": "Mt San Antonio College",
+            "name": "Tina Lorene . Leonard",
+            "title": "adj faculty cr instruction",
+            "pay": 43177,
+            "key": "Mt San Antonio College||Tina Lorene . Leonard||adj faculty cr instruction"
+          },
+          {
+            "campus": "San Bernardino Community College District",
+            "name": "Tina L Leonard",
+            "title": "acadmic professor",
+            "pay": 14738,
+            "key": "San Bernardino Community College District||Tina L Leonard||acadmic professor"
+          },
+          {
+            "campus": "Ventura County CCD",
+            "name": "Tina Leonard",
+            "title": "part time instr load nonmem",
+            "pay": 14855,
+            "key": "Ventura County CCD||Tina Leonard||part time instr load nonmem"
+          },
+          {
+            "campus": "Victor Valley College",
+            "name": "Tina L Leonard",
+            "title": "pt new faculty",
+            "pay": 2673,
+            "key": "Victor Valley College||Tina L Leonard||pt new faculty"
+          }
+        ],
+        "crossLinks": []
+      }
+    ],
+    "verification": {
+      "1783466672605": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Victor Valley College": {
+            "found": true,
+            "liveUrl": "https://www.vvc.edu/faculty-and-staff",
+            "archiveUrl": "https://web.archive.org/web/20261102224107/https://www.vvc.edu/faculty-and-staff"
+          },
+          "Ventura County CCD": {
+            "found": true,
+            "liveUrl": "data/calmatters_review/evidence/tina-leonard/ventura-county-ccd/screenshot-2026-07-29-at-4-48-37-pm.png"
+          },
+          "San Bernardino Community College District": {
+            "found": true,
+            "liveUrl": "https://www.valleycollege.edu/academics/pathways/acd/modern-languages/faculty.php",
+            "archiveUrl": ""
+          },
+          "Mt San Antonio College": {
+            "found": true,
+            "liveUrl": "https://www.mtsac.edu/profiles/tleonard4.html",
+            "archiveUrl": "https://web.archive.org/web/20261102223309/https://www.mtsac.edu/profiles/tleonard4.html"
+          },
+          "South Orange Community College District": {
+            "found": true,
+            "liveUrl": "https://www.ivc.edu/tina-leonard"
+          }
+        },
+        "scheduleCourses": {
+          "Mt San Antonio College": [
+            {
+              "code": "ASL",
+              "semester": "Fall 2026",
+              "enrolled": "29",
+              "link": "data/calmatters_review/evidence/tina-leonard/mt-san-antonio-college/screenshot-2026-07-14-at-6-06-53-pm.png"
+            },
+            {
+              "code": "Fingerspelling",
+              "semester": "Fall 2026",
+              "enrolled": "8",
+              "link": "data/calmatters_review/evidence/tina-leonard/mt-san-antonio-college/screenshot-2026-07-14-at-6-06-53-pm.png"
+            }
+          ],
+          "San Bernardino Community College District": [
+            {
+              "code": "ASL 1",
+              "semester": "Fall 2026",
+              "enrolled": "30",
+              "link": "data/calmatters_review/evidence/tina-leonard/san-bernardino-community-college-district/screenshot-2026-07-15-at-3-18-51-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": 251,
+    "record_count": 5,
+    "campuses": [
+      {
+        "campus": "Chabot-Las Positas CCD",
+        "records": [
+          {
+            "name": "Faramarz Mortezaie",
+            "title": "tmsh instructor part time",
+            "pay": 39942
+          }
+        ]
+      },
+      {
+        "campus": "Contra Costa Community College District",
+        "records": [
+          {
+            "name": "Faramarz Mortezaie",
+            "title": "computer science",
+            "pay": 53822
+          }
+        ]
+      },
+      {
+        "campus": "Ohlone College",
+        "records": [
+          {
+            "name": "Faramarz Mortezaie",
+            "title": "engineering faculty hourly lecture",
+            "pay": 38736
+          }
+        ]
+      },
+      {
+        "campus": "San Mateo Community College District",
+        "records": [
+          {
+            "name": "Faramarz Mortezaie",
+            "title": "hourly faculty",
+            "pay": 43775
+          }
+        ]
+      },
+      {
+        "campus": "West Valley Mission CCD",
+        "records": [
+          {
+            "name": "Faramarz Mortezaie",
+            "title": "full time instructor",
+            "pay": 234488
+          }
+        ]
+      }
+    ],
+    "aggregate_pay": 410763,
+    "verdict": "real",
+    "groups": [
+      {
+        "id": 1784330001950,
+        "name": "Faramarz Mortezaie",
+        "records": [
+          {
+            "campus": "Chabot-Las Positas CCD",
+            "name": "Faramarz Mortezaie",
+            "title": "tmsh instructor part time",
+            "pay": 39942,
+            "key": "Chabot-Las Positas CCD||Faramarz Mortezaie||tmsh instructor part time"
+          },
+          {
+            "campus": "Ohlone College",
+            "name": "Faramarz Mortezaie",
+            "title": "engineering faculty hourly lecture",
+            "pay": 38736,
+            "key": "Ohlone College||Faramarz Mortezaie||engineering faculty hourly lecture"
+          },
+          {
+            "campus": "San Mateo Community College District",
+            "name": "Faramarz Mortezaie",
+            "title": "hourly faculty",
+            "pay": 43775,
+            "key": "San Mateo Community College District||Faramarz Mortezaie||hourly faculty"
+          },
+          {
+            "campus": "West Valley Mission CCD",
+            "name": "Faramarz Mortezaie",
+            "title": "full time instructor",
+            "pay": 234488,
+            "key": "West Valley Mission CCD||Faramarz Mortezaie||full time instructor"
+          },
+          {
+            "campus": "Contra Costa Community College District",
+            "name": "Faramarz Mortezaie",
+            "title": "computer science",
+            "pay": 53822,
+            "key": "Contra Costa Community College District||Faramarz Mortezaie||computer science"
+          }
+        ],
+        "crossLinks": [
+          {
+            "key": "CSU::87169",
+            "system": "CSU",
+            "name": "FARAMARZ MORTEZAIE",
+            "institution": "SAN JOSE",
+            "title": "LECTURER - ACADEMIC YEAR",
+            "pay": 96866.8,
+            "status": "confirmed"
+          }
+        ]
+      }
+    ],
+    "verification": {
+      "1784330001950": {
+        "contact_status": "contacted",
+        "directoryPages": {
+          "Chabot-Las Positas CCD": {
+            "found": true,
+            "liveUrl": "https://www.laspositascollege.edu/_directory/computerscience/fmortezaie.php",
+            "archiveUrl": "https://web.archive.org/web/20261021214512/https://www.laspositascollege.edu/_directory/computerscience/fmortezaie.php"
+          },
+          "Ohlone College": {
+            "found": true,
+            "liveUrl": "https://www.ohlone.edu/person/faramarz-mortezaie",
+            "archiveUrl": "https://web.archive.org/web/20261021214557/https://www.ohlone.edu/person/faramarz-mortezaie"
+          },
+          "San Mateo Community College District": {
+            "found": true,
+            "liveUrl": "https://collegeofsanmateo.edu/cis/faculty.asp",
+            "archiveUrl": "https://web.archive.org/web/20261021214759/https://collegeofsanmateo.edu/cis/faculty.asp"
+          },
+          "West Valley Mission CCD": {
+            "found": true,
+            "liveUrl": "https://missioncollege.edu/academics/computer-information-technology/",
+            "archiveUrl": "https://web.archive.org/web/20261021215207/https://missioncollege.edu/academics/computer-information-technology/"
+          },
+          "Contra Costa Community College District": {
+            "found": true,
+            "liveUrl": "https://www.dvc.edu/directory/faramarz-mortezaie",
+            "archiveUrl": "https://web.archive.org/web/20261021215430/https://www.dvc.edu/directory/faramarz-mortezaie"
+          },
+          "CSU::87169": {
+            "found": true,
+            "liveUrl": "https://www.sjsu.edu/cmpe/about/faculty_staff/lecturer/faramarz-mortezaie.php",
+            "archiveUrl": "https://web.archive.org/web/20261021220001/https://www.sjsu.edu/cmpe/about/faculty_staff/lecturer/faramarz-mortezaie.php"
+          }
+        },
+        "scheduleCourses": {
+          "Chabot-Las Positas CCD": [
+            {
+              "code": "Computing Fundamentals",
+              "semester": "Fall 2026",
+              "enrolled": "13",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/chabot-las-positas-ccd/screenshot-2026-10-14-at-3-52-44-pm.png"
+            },
+            {
+              "code": "Computing Fundamentals",
+              "semester": "Fall 2026",
+              "enrolled": "3",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/chabot-las-positas-ccd/screenshot-2026-10-14-at-3-52-44-pm.png"
+            }
+          ],
+          "West Valley Mission CCD": [
+            {
+              "code": "Python",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/west-valley-mission-ccd/screenshot-2026-10-14-at-3-58-09-pm.png"
+            },
+            {
+              "code": "Python",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/west-valley-mission-ccd/screenshot-2026-10-14-at-3-58-09-pm.png"
+            },
+            {
+              "code": "intro to computer systems and programming language",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/west-valley-mission-ccd/screenshot-2026-10-14-at-3-59-32-pm.png"
+            }
+          ],
+          "CSU::87169": [
+            {
+              "code": "Assembly Language Programming",
+              "semester": "Fall 2026",
+              "enrolled": "40",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/csu-san-jose/screenshot-2026-10-14-at-4-07-03-pm.png"
+            },
+            {
+              "code": "Operating Systems",
+              "semester": "Fall 2026",
+              "enrolled": "36",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/csu-san-jose/screenshot-2026-10-14-at-4-20-08-pm.png"
+            },
+            {
+              "code": "Operating Systems",
+              "semester": "Fall 2026",
+              "enrolled": "37",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/csu-san-jose/screenshot-2026-10-14-at-4-19-13-pm.png"
+            },
+            {
+              "code": "Computer Networks",
+              "semester": "Fall 2026",
+              "enrolled": "7",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/csu-san-jose/screenshot-2026-10-14-at-4-20-41-pm.png"
+            },
+            {
+              "code": "Computer Architecture",
+              "semester": "Fall 2026",
+              "enrolled": "10",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/csu-san-jose/screenshot-2026-10-14-at-4-17-41-pm.png"
+            }
+          ],
+          "Contra Costa Community College District": [
+            {
+              "code": "COMSCI260",
+              "semester": "Fall 2026",
+              "enrolled": "",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/contra-costa-community-college-district/screenshot-2026-10-14-at-4-02-10-pm.png"
+            }
+          ],
+          "San Mateo Community College District": [
+            {
+              "code": "Computer networking",
+              "semester": "Fall 2026",
+              "enrolled": "22",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/san-mateo-community-college-district/screenshot-2026-10-14-at-3-55-06-pm.png"
+            },
+            {
+              "code": "computer org & systems",
+              "semester": "Fall 2026",
+              "enrolled": "32",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/san-mateo-community-college-district/screenshot-2026-10-14-at-3-55-06-pm.png"
+            }
+          ],
+          "Ohlone College": [
+            {
+              "code": "Electronics for Technology",
+              "semester": "Fall 2026",
+              "enrolled": "28",
+              "link": "data/calmatters_review/evidence/faramarz-mortezaie/ohlone-college/screenshot-2026-10-13-at-1-53-27-pm.png"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

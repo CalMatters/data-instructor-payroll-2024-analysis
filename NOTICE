@@ -1,0 +1,13 @@
+Notices for data-instructor-pay
+================================
+
+Copyright 2026 CalMatters
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Python dependencies are declared in pyproject.toml and installed via uv;
+each package defines its own license. This repository does not vendor third-party
+source files; use package metadata if you need full license texts for dependencies.
+
+Raw payroll data was provided by Transparent California.
+Transparent California collects the information from public agencies via public records request.
