@@ -55,13 +55,13 @@ Our team used a custom-built app to track our review of the clusters. If you'd l
 
 ## Data use
 
-While the contents of this repo are shared under an Apache 2.0 license, CalMatters/The Markup would appreciate any credit or attribution you're willing to give. We're also interested to learn how you used it, so feel free to [send us a message](data@calmatters.org) or open an issue if you do. If you have any questions, feel free to [contact us](data@calmatters.org) as well.
+While the contents of this repo are shared under an Apache 2.0 license, CalMatters/The Markup would appreciate any credit or attribution you're willing to give. We're also interested to learn how you used it, so feel free to [send us a message](mailto:data@calmatters.org) or open an issue if you do. If you have any questions, feel free to [contact us](mailto:data@calmatters.org) as well.
 
 CalMatters is a nonpartisan, nonprofit journalism venture committed to explaining how California’s state Capitol works and why it matters.
 
 ## Contact and issues
 
-For bugs, unclear documentation, or questions about the pipeline, use [TK GitHub Issues TK](/) or send us an [email](data@calmatters.org).
+For bugs, unclear documentation, or questions about the pipeline, use [TK GitHub Issues TK](/) or send us an [email](mailto:data@calmatters.org).
 
 ## Note on AI-assisted work
 
