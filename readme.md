@@ -1,4 +1,4 @@
-# Investigate instructor pay
+# Instructor payroll 2024 analysis
 
 An analysis of pay data to find instructors teaching at multiple campuses using compensation data from the public higher education system. This repo contains code for the processing and analysis pipeline. For the full narrative methodology and findings, see [TK Show Your Work TK](/).
 
@@ -13,11 +13,10 @@ This project uses [Marimo](https://marimo.io/) (an interactive Python notebook) 
 
 ### Setup (first time only)
 
-1. **Install uv and just** (if not already installed):
+1. **Install uv** (if not already installed):
 
    ```bash
    brew install uv
-   brew install just
    ```
 
 2. **Install dependencies**:
@@ -50,11 +49,13 @@ Some courses were confirmed by searching colleges' full 2024 class schedules rat
 
 Checks on individual instructors match the published story. Figures that count or summarize all instructors (totals, medians, percentiles, the histogram) reflect only the sample, so `02_fact_check.py` lists the full-data result next to each one.
 
-To reproduce the full analysis, export the candidate clusters from `00_cluster_build.py` and do your own review. Each reviewed cluster needs a `verdict` (`"real"` for confirmed instructors) and a `groups[0]` entry holding the confirmed payroll `records`, any confirmed UC/CSU `crossLinks` and the `verification` evidence. See the sample file for the exact fields the notebooks read.
+To reproduce the full analysis, export the candidate clusters from `00_cluster_build.py` and complete an independent review. Each reviewed cluster needs a `verdict` (`"real"` for confirmed instructors) and a `groups[0]` entry holding the confirmed payroll `records`, any confirmed UC/CSU `crossLinks` and the `verification` evidence. See the sample file for the exact fields the notebooks read.
+
+Our team used a custom-built app to track our review of the clusters. If you'd like access to the web app then contact [data@calmatters.org](mailto:data@calmatters.org).
 
 ## Data use
 
-While the contents of this repo are shared under an Apache 2.0 license, CalMatters/The Markup would appreciate any credit or attribution you're willing to give. We're also interested to learn how you used it, so feel free to [send us a message](john@calmatters.org) or open an issue if you do. If you have any questions, feel free to [contact us](john@calmatters.org) as well.
+While the contents of this repo are shared under an Apache 2.0 license, CalMatters/The Markup would appreciate any credit or attribution you're willing to give. We're also interested to learn how you used it, so feel free to [send us a message](data@calmatters.org) or open an issue if you do. If you have any questions, feel free to [contact us](data@calmatters.org) as well.
 
 CalMatters is a nonpartisan, nonprofit journalism venture committed to explaining how California’s state Capitol works and why it matters.
 
