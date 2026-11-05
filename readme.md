@@ -45,7 +45,7 @@ To protect the privacy of instructors not named in our reporting, we are not pub
 
 The screenshots and documents we used as evidence for these instructors are saved in `data/calmatters_review/evidence/{instructor}/{employer}/`, and the sample links to them by repo path. `evidence/manifest.csv` lists which directory page or course each file supports.
 
-Some courses were confirmed by searching colleges' full 2024 class schedules rather than by screenshot. `data/course-schedules/` has those sections and the raw schedule files they came from; see its readme.
+Some courses were confirmed by searching colleges' full 2024 class schedules rather than by screenshot. `data/course-schedules/` has those sections and the raw schedule files they came from.
 
 Checks on individual instructors match the published story. Figures that count or summarize all instructors (totals, medians, percentiles, the histogram) reflect only the sample, so `02_fact_check.py` lists the full-data result next to each one.
 
