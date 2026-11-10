@@ -1,6 +1,6 @@
 # Instructor payroll 2024 analysis
 
-An analysis of pay data to find instructors teaching at multiple campuses using compensation data from the public higher education system. This repo contains code for the processing and analysis pipeline. For the full narrative methodology and findings, see [TK Show Your Work TK](/).
+An analysis of pay data to find instructors teaching at multiple campuses using compensation data from the public higher education system. This repo contains code for the processing and analysis pipeline. For the full narrative methodology and findings, see [our Show Your Work methodology](https://calmatters.org/show-your-work/2026/11/how-we-found-the-instructors-making-more-than-400k-at-community-colleges/).
 
 ## Data sources
 
@@ -9,8 +9,8 @@ An analysis of pay data to find instructors teaching at multiple campuses using 
 
 ## Published products
 
-- TO-DO: Article link
-- TO-DO: Methodology Show Your Work article
+- [Main story](https://calmatters.org/education/2026/11/community-college-professors/)
+- [Show Your Work methodology](https://calmatters.org/show-your-work/2026/11/how-we-found-the-instructors-making-more-than-400k-at-community-colleges/)
 - [Data visualization repo](https://github.com/CalMatters/graphics-instructor-pay)
 
 ## Quick start
