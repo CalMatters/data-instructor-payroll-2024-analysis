@@ -7,6 +7,12 @@ An analysis of pay data to find instructors teaching at multiple campuses using 
 1. Payroll data shared with CalMatters by [Transparent California](https://transparentcalifornia.com/)
 2. Course catalog, faculty directory and employment data gathered by CalMatters via public sources on the web or direct request sent to campuses
 
+## Published products
+
+- TO-DO: Article link
+- TO-DO: Methodology Show Your Work article
+- [Data visualization repo](https://github.com/CalMatters/graphics-instructor-pay)
+
 ## Quick start
 
 This project uses [Marimo](https://marimo.io/) (an interactive Python notebook) and [uv](https://github.com/astral-sh/uv) (a fast Python package manager).
@@ -61,7 +67,7 @@ CalMatters is a nonpartisan, nonprofit journalism venture committed to explainin
 
 ## Contact and issues
 
-For bugs, unclear documentation, or questions about the pipeline, use [TK GitHub Issues TK](/) or send us an [email](mailto:data@calmatters.org).
+For bugs, unclear documentation, or questions about the pipeline, use [GitHub Issues](https://github.com/CalMatters/data-instructor-payroll-2024-analysis/issues) or send us an [email](mailto:data@calmatters.org).
 
 ## Note on AI-assisted work
 
