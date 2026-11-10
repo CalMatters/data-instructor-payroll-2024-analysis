@@ -9,7 +9,7 @@ An analysis of pay data to find instructors teaching at multiple campuses using 
 
 ## Published products
 
-- [Main story](https://calmatters.org/education/2026/11/community-college-professors/)
+- [Main story](https://calmatters.org/education/2026/11/community-college-professors-pay/)
 - [Show Your Work methodology](https://calmatters.org/show-your-work/2026/11/how-we-found-the-instructors-making-more-than-400k-at-community-colleges/)
 - [Data visualization repo](https://github.com/CalMatters/graphics-instructor-pay)
 
