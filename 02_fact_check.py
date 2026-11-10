@@ -447,7 +447,7 @@ def _(
     # Fall 2026 classes
 
     Text from draft:
-    > This fall, she’s [Thien-Huong Ninh Villarreal] teaching 30 classes to about 1,100 students.
+    > This fall, she’s [Thien-Huong Ninh Villarreal] teaching 30 sociology, ethnic studies and business classes to roughly 1,100 students.
 
     Fact check:
     > This fall, she’s [{PROFESSOR_VILLARREAL}] teaching {len(villarreal_fall_2026_courses)} classes to {villarreal_fall_2026_students:,} students.
@@ -487,10 +487,10 @@ def _(mo, villarreal_total_pay_2024):
     # 2024 pay and workload
 
     Text from draft:
-    > In 2024, when she did roughly the same thing, she made nearly $800,000, according to public payroll records.
+    > In 2024, with roughly the same courseload, she made nearly $800,000, according to public payroll records.
 
     Fact check:
-    > In 2024, when she did roughly the same thing, she made ${villarreal_total_pay_2024:,}, according to public payroll records.
+    > In 2024, with roughly the same courseload, she made ${villarreal_total_pay_2024:,}, according to public payroll records.
     """)
     return
 
@@ -508,15 +508,15 @@ def _(MIN_CAMPUSES, instructors_over_class_threshold, mo, unique_name_count):
 
     Text from draft:
 
-    > By analyzing payroll and course data, CalMatters found at least 70 adjuncts, or part-time professors, who taught at five or more community college districts, California State University or University of California campuses at once, including many who taught more than 10 classes in a semester.
+    > CalMatters analyzed public payroll records from the non-profit Transparent California and corroborated those records with college course data. The analysis found at least 70 adjuncts, or part-time professors, who were paid by five or more community college districts, California State University or University of California campuses in the same year, including many who taught more than 10 classes in a semester.
 
     Fact check:
 
-    > By analyzing payroll and course data, CalMatters found {unique_name_count} adjuncts, or part-time professors, who taught at {MIN_CAMPUSES} or more community college districts, California State University or University of California campuses at once, including {len(instructors_over_class_threshold)} who taught more than 10 classes in a semester.
+    > The analysis found {unique_name_count} adjuncts, or part-time professors, who were paid by {MIN_CAMPUSES} or more community college districts, California State University or University of California campuses in the same year, including {len(instructors_over_class_threshold)} who taught more than 10 classes in a semester.
 
     Full data result (all 72 confirmed instructors, not included in this repo):
 
-    > By analyzing payroll and course data, CalMatters found 72 adjuncts, or part-time professors, who taught at 5 or more community college districts, California State University or University of California campuses at once, including 17 who taught more than 10 classes in a semester.
+    > The analysis found 72 adjuncts, or part-time professors, who were paid by 5 or more community college districts, California State University or University of California campuses in the same year, including 17 who taught more than 10 classes in a semester.
 
     Our methodology required multiple stages of verification before we categorized an instructor in this grouping:
     1. Present on payroll at five or more campuses
@@ -565,7 +565,7 @@ def _(instructors_in_99th_pctl, mo):
     # Higher-tier pay clusters
 
     Text from draft:
-    > Some of these professors were among the highest paid employees across California’s 116 community colleges, according to the CalMatters analysis.
+    > Some of these professors were among the highest paid employees across California’s 116 community colleges.
 
     Fact check:
     > {instructors_in_99th_pctl} were among the top 1% of paid employees across California’s 116 community colleges when their consolidated pay records were compared to the remaining payroll database records, according to the CalMatters analysis.
@@ -643,7 +643,7 @@ def _(
     # Highest paid employee
 
     Text from draft:
-    > In fact, no community college employee made more than Ninh Villarreal in 2024, not even Sonya Christian, the chancellor of the state’s community college system.
+    > Ninh Villarreal made more than every community college administrator in 2024, even more than Sonya Christian, the chancellor of the state’s community college system, according to CalMatters’ analysis.
 
     Fact check:
 
@@ -688,7 +688,7 @@ def _(PROFESSOR_HEUVEL, heuvel_total_pay_2024, mo):
     > In 2024, California schools paid him [Andrew Vanden Heuvel] a total of about $320,000, according to the CalMatters analysis.
 
     Fact check:
-    > In 2024, California schools paid him {PROFESSOR_HEUVEL} a total of about ${heuvel_total_pay_2024:,}, according to the CalMatters analysis.
+    > In 2024, California schools paid him [{PROFESSOR_HEUVEL}] a total of about ${heuvel_total_pay_2024:,}, according to the CalMatters analysis.
     """)
     return
 
@@ -715,10 +715,10 @@ def _(
     I only confirm the pay and campus total.
 
     Text from draft:
-    > [Noah] Thomas made just over $100,000 in 2024 by commuting among five community college campuses in Orange and Los Angeles counties, where he taught in-person studio arts classes.
+    > [Noah] Thomas made just over $100,000 in 2024 by commuting among five community college districts in Orange and Los Angeles counties, where he taught in-person studio arts classes.
 
     Fact check:
-    > [Noah] Thomas made ${thomas_total_pay_2024:,} in 2024 by commuting among {thomas_campus_count} community college campuses in Orange and Los Angeles counties, where he taught in-person studio arts classes.
+    > [Noah] Thomas made ${thomas_total_pay_2024:,} in 2024 by commuting among {thomas_campus_count} community college districts in Orange and Los Angeles counties, where he taught in-person studio arts classes.
 
     ___
 
@@ -765,7 +765,7 @@ def _(instructor_400k_earners, mo):
             # 400k earners
 
             Text from draft:
-            > To make more than $400,000, many of California’s highest earning adjuncts had full-time tenure or tenure-track positions too.
+            > To make more than $400,000, many of California’s highest earning adjuncts had full-time tenure or tenure-track positions too, the records show. For example:
 
             The full-time or tenure status is outside the scope of the data fact check. I am fact checking the names listed under this section: Bobby Seals, Faramarz Mortezaie, Nicholas Nardi, Timothy Durfield, Walter Meyer.
 
@@ -798,7 +798,7 @@ def _(instructor_pay_analysis, instructors_over_exec_pay, median_exec_pay, mo):
 
     > Ten of the 72 instructors we identified earned more than $343,000, the median salary of a community college president or chancellor in the same year.
 
-    > In total, we found 10 instructors, including Ninh Villarreal, who earned more than $340,000, the median salary of a community college president or chancellor in 2024.
+    > In total, we found 10 instructors, including Ninh Villarreal, who earned more than $343,000, the median salary of a community college president or chancellor in 2024.
 
     Fact check:
 
@@ -878,10 +878,10 @@ def _(
     # Top earner course listings count
 
     Text from SYW draft:
-    > The top earner in our analysis taught at least 44 course sections across nine campuses, according to course 2024 catalog records reviewed by CalMatters.
+    > The top earner in our analysis was listed as the instructor for at least 69 course sections across nine community college districts, according to course catalog records from 2024 reviewed by CalMatters.
 
     Fact check:
-    > The top earner in our analysis, {top_paid_instructor}, taught at least {len(top_earner_2024_courses)} course sections across {top_earner_2024_campus_count} campuses, according to 2024 course catalog records reviewed by CalMatters.
+    > The top earner in our analysis [{top_paid_instructor}] was listed as the instructor for at least {len(top_earner_2024_courses)} course sections across {top_earner_2024_campus_count} community college districts, according to course catalog records from 2024 reviewed by CalMatters.
     """)
     return
 
@@ -911,7 +911,7 @@ def _(
     mo.md(rf"""
     # Top earner name variations
 
-    Text from draft:
+    Text from SYW draft:
     > For example: Thien-Huong Villarreal, the top earner on our list, had five different name variations across 11 different schools.
 
     Fact check:
@@ -943,7 +943,7 @@ def _(cluster_median_pay, mo):
     # Instructor clusters median pay
 
     Text from SYW draft:
-    > Median pay for those instructors was $190,000.
+    > Median pay for those instructors was $191,000.
 
     Fact check:
     > Median pay for those instructors was ${cluster_median_pay:,}.
