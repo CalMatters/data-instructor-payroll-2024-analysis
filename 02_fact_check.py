@@ -902,6 +902,42 @@ def _(scheduled_courses_df, top_paid_instructor):
 
 
 @app.cell(hide_code=True)
+def _(
+    mo,
+    top_earner_campus_count,
+    top_earner_name_variations,
+    top_paid_instructor,
+):
+    mo.md(rf"""
+    # Top earner name variations
+
+    Text from draft:
+    > For example: Thien-Huong Villarreal, the top earner on our list, had five different name variations across 11 different schools.
+
+    Fact check:
+    > For example: {top_paid_instructor}, the top earner on our list, had {len(top_earner_name_variations)} different name variations across {top_earner_campus_count} different schools.
+
+    Names are compared in lower case, since UC and CSU payroll print names in all caps.
+    """)
+    return
+
+
+@app.cell
+def _(instructor_college_df, top_paid_instructor):
+    _rows = instructor_college_df[
+        instructor_college_df["canonical_name"] == top_paid_instructor
+    ]
+    top_earner_campus_count = _rows["institution"].nunique()
+    # CC rows join multiple payroll names for one campus with "; ".
+    top_earner_name_variations = (
+        _rows["source_name"].str.split("; ").explode().str.lower().unique()
+    )
+
+    _rows[["system", "institution", "source_name"]]
+    return top_earner_campus_count, top_earner_name_variations
+
+
+@app.cell(hide_code=True)
 def _(cluster_median_pay, mo):
     mo.md(rf"""
     # Instructor clusters median pay
